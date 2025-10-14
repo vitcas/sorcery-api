@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>generic api</title>
+    <!-- Water.css -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/water.css@2/out/dark.css">
+</head>
+<body>
+    <p>Endpoints disponíveis:</p>
+    {% for ep in endpoints %}
+        <div class="endpoint">
+            <strong style="color: var(--jinx-purple)">{{ ep.name }}</strong><br>
+            <a href="{{ ep.url }}" target="_blank">{{ ep.url }}</a>
+        </div>
+    {% endfor %}
+</body>
+</html>
+
