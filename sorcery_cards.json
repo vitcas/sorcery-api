@@ -1,5 +1,6 @@
 [
   {
+    "id": "SORC-0001",
     "name": "Apprentice Wizard",
     "guardian": {
       "rarity": "Ordinary",
@@ -108,6 +109,7 @@
     }
   },
   {
+    "id": "SORC-0002",
     "name": "Blood Ravens",
     "guardian": {
       "rarity": "Ordinary",
@@ -208,6 +210,7 @@
     }
   },
   {
+    "id": "SORC-0003",
     "name": "Candlemas Monks",
     "guardian": {
       "rarity": "Elite",
@@ -308,6 +311,7 @@
     }
   },
   {
+    "id": "SORC-0004",
     "name": "Cloud Spirit",
     "guardian": {
       "rarity": "Ordinary",
@@ -416,6 +420,7 @@
     }
   },
   {
+    "id": "SORC-0005",
     "name": "Daperyll Vampire",
     "guardian": {
       "rarity": "Exceptional",
@@ -516,6 +521,7 @@
     }
   },
   {
+    "id": "SORC-0006",
     "name": "Dead of Night Demon",
     "guardian": {
       "rarity": "Ordinary",
@@ -624,6 +630,7 @@
     }
   },
   {
+    "id": "SORC-0007",
     "name": "East-West Dragon",
     "guardian": {
       "rarity": "Elite",
@@ -724,6 +731,7 @@
     }
   },
   {
+    "id": "SORC-0008",
     "name": "Grandmaster Wizard",
     "guardian": {
       "rarity": "Elite",
@@ -832,6 +840,7 @@
     }
   },
   {
+    "id": "SORC-0009",
     "name": "Grim Reaper",
     "guardian": {
       "rarity": "Unique",
@@ -932,6 +941,7 @@
     }
   },
   {
+    "id": "SORC-0010",
     "name": "Gyre Hippogriffs",
     "guardian": {
       "rarity": "Exceptional",
@@ -1040,6 +1050,7 @@
     }
   },
   {
+    "id": "SORC-0011",
     "name": "Haast Eagle",
     "guardian": {
       "rarity": "Exceptional",
@@ -1140,6 +1151,7 @@
     }
   },
   {
+    "id": "SORC-0012",
     "name": "Headless Haunt",
     "guardian": {
       "rarity": "Exceptional",
@@ -1256,6 +1268,7 @@
     }
   },
   {
+    "id": "SORC-0013",
     "name": "Highland Clansmen",
     "guardian": {
       "rarity": "Ordinary",
@@ -1356,6 +1369,7 @@
     }
   },
   {
+    "id": "SORC-0014",
     "name": "Highland Falconer",
     "guardian": {
       "rarity": "Elite",
@@ -1456,6 +1470,7 @@
     }
   },
   {
+    "id": "SORC-0015",
     "name": "Highland Princess",
     "guardian": {
       "rarity": "Unique",
@@ -1556,6 +1571,7 @@
     }
   },
   {
+    "id": "SORC-0016",
     "name": "Hounds of Ondaros",
     "guardian": {
       "rarity": "Elite",
@@ -1656,6 +1672,7 @@
     }
   },
   {
+    "id": "SORC-0017",
     "name": "Kite Archer",
     "guardian": {
       "rarity": "Exceptional",
@@ -1764,6 +1781,7 @@
     }
   },
   {
+    "id": "SORC-0018",
     "name": "Lord of the Void",
     "guardian": {
       "rarity": "Unique",
@@ -1864,6 +1882,7 @@
     }
   },
   {
+    "id": "SORC-0019",
     "name": "Men of Leng",
     "guardian": {
       "rarity": "Ordinary",
@@ -1964,6 +1983,7 @@
     }
   },
   {
+    "id": "SORC-0020",
     "name": "Midnight Rogue",
     "guardian": {
       "rarity": "Ordinary",
@@ -2072,6 +2092,7 @@
     }
   },
   {
+    "id": "SORC-0021",
     "name": "Moon Clan Werewolf",
     "guardian": {
       "rarity": "Exceptional",
@@ -2172,6 +2193,7 @@
     }
   },
   {
+    "id": "SORC-0022",
     "name": "Nightmare",
     "guardian": {
       "rarity": "Elite",
@@ -2280,6 +2302,7 @@
     }
   },
   {
+    "id": "SORC-0023",
     "name": "Nimbus Jinn",
     "guardian": {
       "rarity": "Elite",
@@ -2388,6 +2411,7 @@
     }
   },
   {
+    "id": "SORC-0024",
     "name": "Palliburrie Bats",
     "guardian": {
       "rarity": "Ordinary",
@@ -2488,6 +2512,7 @@
     }
   },
   {
+    "id": "SORC-0025",
     "name": "Peregrine Apparition",
     "guardian": {
       "rarity": "Exceptional",
@@ -2596,6 +2621,7 @@
     }
   },
   {
+    "id": "SORC-0026",
     "name": "Phantasmal Shade",
     "guardian": {
       "rarity": "Exceptional",
@@ -2696,6 +2722,7 @@
     }
   },
   {
+    "id": "SORC-0027",
     "name": "Phantom Steed",
     "guardian": {
       "rarity": "Exceptional",
@@ -2796,6 +2823,7 @@
     }
   },
   {
+    "id": "SORC-0028",
     "name": "Phase Assassin",
     "guardian": {
       "rarity": "Exceptional",
@@ -2896,6 +2924,7 @@
     }
   },
   {
+    "id": "SORC-0029",
     "name": "Plumed Pegasus",
     "guardian": {
       "rarity": "Ordinary",
@@ -3004,6 +3033,7 @@
     }
   },
   {
+    "id": "SORC-0030",
     "name": "Puppet Master",
     "guardian": {
       "rarity": "Elite",
@@ -3104,6 +3134,7 @@
     }
   },
   {
+    "id": "SORC-0031",
     "name": "Recurring Specter",
     "guardian": {
       "rarity": "Elite",
@@ -3204,6 +3235,7 @@
     }
   },
   {
+    "id": "SORC-0032",
     "name": "Riddle Sphinx",
     "guardian": {
       "rarity": "Elite",
@@ -3304,6 +3336,7 @@
     }
   },
   {
+    "id": "SORC-0033",
     "name": "Roaming Monster",
     "guardian": {
       "rarity": "Ordinary",
@@ -3412,6 +3445,7 @@
     }
   },
   {
+    "id": "SORC-0034",
     "name": "Skirmishers of Mu",
     "guardian": {
       "rarity": "Exceptional",
@@ -3520,6 +3554,7 @@
     }
   },
   {
+    "id": "SORC-0035",
     "name": "Sky Baron",
     "guardian": {
       "rarity": "Elite",
@@ -3620,6 +3655,7 @@
     }
   },
   {
+    "id": "SORC-0036",
     "name": "Sling Pixies",
     "guardian": {
       "rarity": "Exceptional",
@@ -3728,6 +3764,7 @@
     }
   },
   {
+    "id": "SORC-0037",
     "name": "Snow Leopard",
     "guardian": {
       "rarity": "Ordinary",
@@ -3836,6 +3873,7 @@
     }
   },
   {
+    "id": "SORC-0038",
     "name": "Spectral Stalker",
     "guardian": {
       "rarity": "Ordinary",
@@ -3944,6 +3982,7 @@
     }
   },
   {
+    "id": "SORC-0039",
     "name": "Spire Lich",
     "guardian": {
       "rarity": "Exceptional",
@@ -4052,6 +4091,7 @@
     }
   },
   {
+    "id": "SORC-0040",
     "name": "Ultimate Horror",
     "guardian": {
       "rarity": "Unique",
@@ -4152,6 +4192,7 @@
     }
   },
   {
+    "id": "SORC-0041",
     "name": "Vril Revenant",
     "guardian": {
       "rarity": "Elite",
@@ -4252,6 +4293,7 @@
     }
   },
   {
+    "id": "SORC-0042",
     "name": "Wind Sylph",
     "guardian": {
       "rarity": "Exceptional",
@@ -4352,6 +4394,7 @@
     }
   },
   {
+    "id": "SORC-0043",
     "name": "Witherwing Hero",
     "guardian": {
       "rarity": "Unique",
@@ -4460,6 +4503,7 @@
     }
   },
   {
+    "id": "SORC-0044",
     "name": "Zephyranne Airship",
     "guardian": {
       "rarity": "Elite",
@@ -4560,6 +4604,7 @@
     }
   },
   {
+    "id": "SORC-0045",
     "name": "Blink",
     "guardian": {
       "rarity": "Ordinary",
@@ -4668,6 +4713,7 @@
     }
   },
   {
+    "id": "SORC-0046",
     "name": "Browse",
     "guardian": {
       "rarity": "Unique",
@@ -4768,6 +4814,7 @@
     }
   },
   {
+    "id": "SORC-0047",
     "name": "Chain Lightning",
     "guardian": {
       "rarity": "Exceptional",
@@ -4876,6 +4923,7 @@
     }
   },
   {
+    "id": "SORC-0048",
     "name": "Chaos Twister",
     "guardian": {
       "rarity": "Elite",
@@ -4976,6 +5024,7 @@
     }
   },
   {
+    "id": "SORC-0049",
     "name": "Disenchant",
     "guardian": {
       "rarity": "Ordinary",
@@ -5076,6 +5125,7 @@
     }
   },
   {
+    "id": "SORC-0050",
     "name": "Dream-Quest",
     "guardian": {
       "rarity": "Unique",
@@ -5176,6 +5226,7 @@
     }
   },
   {
+    "id": "SORC-0051",
     "name": "Fade",
     "guardian": {
       "rarity": "Ordinary",
@@ -5276,6 +5327,7 @@
     }
   },
   {
+    "id": "SORC-0052",
     "name": "Flanking Maneuver",
     "guardian": {
       "rarity": "Exceptional",
@@ -5376,6 +5428,7 @@
     }
   },
   {
+    "id": "SORC-0053",
     "name": "Grapple Shot",
     "guardian": {
       "rarity": "Ordinary",
@@ -5476,6 +5529,7 @@
     }
   },
   {
+    "id": "SORC-0054",
     "name": "Lightning Bolt",
     "guardian": {
       "rarity": "Ordinary",
@@ -5592,6 +5646,7 @@
     }
   },
   {
+    "id": "SORC-0055",
     "name": "Mortality",
     "guardian": {
       "rarity": "Ordinary",
@@ -5692,6 +5747,7 @@
     }
   },
   {
+    "id": "SORC-0056",
     "name": "Occult Ritual",
     "guardian": {
       "rarity": "Unique",
@@ -5800,6 +5856,7 @@
     }
   },
   {
+    "id": "SORC-0057",
     "name": "Psionic Blast",
     "guardian": {
       "rarity": "Exceptional",
@@ -5900,6 +5957,7 @@
     }
   },
   {
+    "id": "SORC-0058",
     "name": "Rain of Arrows",
     "guardian": {
       "rarity": "Ordinary",
@@ -6000,6 +6058,7 @@
     }
   },
   {
+    "id": "SORC-0059",
     "name": "Raise Dead",
     "guardian": {
       "rarity": "Exceptional",
@@ -6100,6 +6159,7 @@
     }
   },
   {
+    "id": "SORC-0060",
     "name": "Recall",
     "guardian": {
       "rarity": "Exceptional",
@@ -6200,6 +6260,7 @@
     }
   },
   {
+    "id": "SORC-0061",
     "name": "Telekinesis",
     "guardian": {
       "rarity": "Exceptional",
@@ -6300,6 +6361,7 @@
     }
   },
   {
+    "id": "SORC-0062",
     "name": "Teleport",
     "guardian": {
       "rarity": "Ordinary",
@@ -6400,6 +6462,7 @@
     }
   },
   {
+    "id": "SORC-0063",
     "name": "Unlikely Alliance",
     "guardian": {
       "rarity": "Elite",
@@ -6500,6 +6563,7 @@
     }
   },
   {
+    "id": "SORC-0064",
     "name": "Waypoint Portal",
     "guardian": {
       "rarity": "Exceptional",
@@ -6616,6 +6680,7 @@
     }
   },
   {
+    "id": "SORC-0065",
     "name": "Whirling Blades",
     "guardian": {
       "rarity": "Exceptional",
@@ -6716,6 +6781,7 @@
     }
   },
   {
+    "id": "SORC-0066",
     "name": "Windblast",
     "guardian": {
       "rarity": "Exceptional",
@@ -6816,6 +6882,7 @@
     }
   },
   {
+    "id": "SORC-0067",
     "name": "Evil Presence",
     "guardian": {
       "rarity": "Exceptional",
@@ -6916,6 +6983,7 @@
     }
   },
   {
+    "id": "SORC-0068",
     "name": "Summoning Sphere",
     "guardian": {
       "rarity": "Exceptional",
@@ -7016,6 +7084,7 @@
     }
   },
   {
+    "id": "SORC-0069",
     "name": "Thunderstorm",
     "guardian": {
       "rarity": "Exceptional",
@@ -7124,6 +7193,7 @@
     }
   },
   {
+    "id": "SORC-0070",
     "name": "Wall of Air",
     "guardian": {
       "rarity": "Ordinary",
@@ -7224,6 +7294,7 @@
     }
   },
   {
+    "id": "SORC-0071",
     "name": "Albespine Pikemen",
     "guardian": {
       "rarity": "Exceptional",
@@ -7324,6 +7395,7 @@
     }
   },
   {
+    "id": "SORC-0072",
     "name": "Älvalinne Dryads",
     "guardian": {
       "rarity": "Ordinary",
@@ -7424,6 +7496,7 @@
     }
   },
   {
+    "id": "SORC-0073",
     "name": "Amazon Warriors",
     "guardian": {
       "rarity": "Ordinary",
@@ -7540,6 +7613,7 @@
     }
   },
   {
+    "id": "SORC-0074",
     "name": "Atlas Wanderers",
     "guardian": {
       "rarity": "Elite",
@@ -7640,6 +7714,7 @@
     }
   },
   {
+    "id": "SORC-0075",
     "name": "Autumn Unicorn",
     "guardian": {
       "rarity": "Exceptional",
@@ -7748,6 +7823,7 @@
     }
   },
   {
+    "id": "SORC-0076",
     "name": "Belmotte Longbowmen",
     "guardian": {
       "rarity": "Ordinary",
@@ -7856,6 +7932,7 @@
     }
   },
   {
+    "id": "SORC-0077",
     "name": "Bone Rabble",
     "guardian": {
       "rarity": "Ordinary",
@@ -7972,6 +8049,7 @@
     }
   },
   {
+    "id": "SORC-0078",
     "name": "Bosk Troll",
     "guardian": {
       "rarity": "Ordinary",
@@ -8072,6 +8150,7 @@
     }
   },
   {
+    "id": "SORC-0079",
     "name": "Cave Trolls",
     "guardian": {
       "rarity": "Ordinary",
@@ -8180,6 +8259,7 @@
     }
   },
   {
+    "id": "SORC-0080",
     "name": "Conqueror Worm",
     "guardian": {
       "rarity": "Elite",
@@ -8280,6 +8360,7 @@
     }
   },
   {
+    "id": "SORC-0081",
     "name": "Crown Prince",
     "guardian": {
       "rarity": "Unique",
@@ -8380,6 +8461,7 @@
     }
   },
   {
+    "id": "SORC-0082",
     "name": "Dalcean Phalanx",
     "guardian": {
       "rarity": "Exceptional",
@@ -8480,6 +8562,7 @@
     }
   },
   {
+    "id": "SORC-0083",
     "name": "Dwarven Digging Team",
     "guardian": {
       "rarity": "Exceptional",
@@ -8580,6 +8663,7 @@
     }
   },
   {
+    "id": "SORC-0084",
     "name": "Frontier Settlers",
     "guardian": {
       "rarity": "Exceptional",
@@ -8688,6 +8772,7 @@
     }
   },
   {
+    "id": "SORC-0085",
     "name": "Gneissgnath Gnomes",
     "guardian": {
       "rarity": "Exceptional",
@@ -8788,6 +8873,7 @@
     }
   },
   {
+    "id": "SORC-0086",
     "name": "Grey Wolves",
     "guardian": {
       "rarity": "Ordinary",
@@ -8888,6 +8974,7 @@
     }
   },
   {
+    "id": "SORC-0087",
     "name": "House Arn Bannerman",
     "guardian": {
       "rarity": "Exceptional",
@@ -8996,6 +9083,7 @@
     }
   },
   {
+    "id": "SORC-0088",
     "name": "King of the Realm",
     "guardian": {
       "rarity": "Unique",
@@ -9104,6 +9192,7 @@
     }
   },
   {
+    "id": "SORC-0089",
     "name": "Land Surveyor",
     "guardian": {
       "rarity": "Ordinary",
@@ -9212,6 +9301,7 @@
     }
   },
   {
+    "id": "SORC-0090",
     "name": "Mage Slayer",
     "guardian": {
       "rarity": "Ordinary",
@@ -9312,6 +9402,7 @@
     }
   },
   {
+    "id": "SORC-0091",
     "name": "Master Tracker",
     "guardian": {
       "rarity": "Elite",
@@ -9412,6 +9503,7 @@
     }
   },
   {
+    "id": "SORC-0092",
     "name": "Midland Army",
     "guardian": {
       "rarity": "Unique",
@@ -9520,6 +9612,7 @@
     }
   },
   {
+    "id": "SORC-0093",
     "name": "Miracle Workers",
     "guardian": {
       "rarity": "Ordinary",
@@ -9620,6 +9713,7 @@
     }
   },
   {
+    "id": "SORC-0094",
     "name": "Monastery Gargoyle",
     "guardian": {
       "rarity": "Exceptional",
@@ -9720,6 +9814,7 @@
     }
   },
   {
+    "id": "SORC-0095",
     "name": "Monster Hunter",
     "guardian": {
       "rarity": "Exceptional",
@@ -9820,6 +9915,7 @@
     }
   },
   {
+    "id": "SORC-0096",
     "name": "Mordric Druids",
     "guardian": {
       "rarity": "Elite",
@@ -9920,6 +10016,7 @@
     }
   },
   {
+    "id": "SORC-0097",
     "name": "Mountain Giant",
     "guardian": {
       "rarity": "Elite",
@@ -10028,6 +10125,7 @@
     }
   },
   {
+    "id": "SORC-0098",
     "name": "Pudge Butcher",
     "guardian": {
       "rarity": "Exceptional",
@@ -10144,6 +10242,7 @@
     }
   },
   {
+    "id": "SORC-0099",
     "name": "Queen of Midland",
     "guardian": {
       "rarity": "Unique",
@@ -10252,6 +10351,7 @@
     }
   },
   {
+    "id": "SORC-0100",
     "name": "Root Spider",
     "guardian": {
       "rarity": "Exceptional",
@@ -10352,6 +10452,7 @@
     }
   },
   {
+    "id": "SORC-0101",
     "name": "Royal Bodyguard",
     "guardian": {
       "rarity": "Elite",
@@ -10452,6 +10553,7 @@
     }
   },
   {
+    "id": "SORC-0102",
     "name": "Scent Hounds",
     "guardian": {
       "rarity": "Ordinary",
@@ -10560,6 +10662,7 @@
     }
   },
   {
+    "id": "SORC-0103",
     "name": "Scourge Zombies",
     "guardian": {
       "rarity": "Ordinary",
@@ -10660,6 +10763,7 @@
     }
   },
   {
+    "id": "SORC-0104",
     "name": "Shield Maidens",
     "guardian": {
       "rarity": "Exceptional",
@@ -10760,6 +10864,7 @@
     }
   },
   {
+    "id": "SORC-0105",
     "name": "Silver Valkyries",
     "guardian": {
       "rarity": "Elite",
@@ -10860,6 +10965,7 @@
     }
   },
   {
+    "id": "SORC-0106",
     "name": "Sirian Templar",
     "guardian": {
       "rarity": "Exceptional",
@@ -10968,6 +11074,7 @@
     }
   },
   {
+    "id": "SORC-0107",
     "name": "Sisters of Silence",
     "guardian": {
       "rarity": "Elite",
@@ -11068,6 +11175,7 @@
     }
   },
   {
+    "id": "SORC-0108",
     "name": "Slumbering Giantess",
     "guardian": {
       "rarity": "Exceptional",
@@ -11168,6 +11276,7 @@
     }
   },
   {
+    "id": "SORC-0109",
     "name": "Squirming Mass",
     "guardian": {
       "rarity": "Elite",
@@ -11268,6 +11377,7 @@
     }
   },
   {
+    "id": "SORC-0110",
     "name": "Stone-gaze Gorgons",
     "guardian": {
       "rarity": "Elite",
@@ -11376,6 +11486,7 @@
     }
   },
   {
+    "id": "SORC-0111",
     "name": "Tragedy Worrywart",
     "guardian": {
       "rarity": "Exceptional",
@@ -11476,6 +11587,7 @@
     }
   },
   {
+    "id": "SORC-0112",
     "name": "Vanguard Knights",
     "guardian": {
       "rarity": "Exceptional",
@@ -11576,6 +11688,7 @@
     }
   },
   {
+    "id": "SORC-0113",
     "name": "Wicked Witch",
     "guardian": {
       "rarity": "Elite",
@@ -11676,6 +11789,7 @@
     }
   },
   {
+    "id": "SORC-0114",
     "name": "Wild Boars",
     "guardian": {
       "rarity": "Ordinary",
@@ -11784,6 +11898,7 @@
     }
   },
   {
+    "id": "SORC-0115",
     "name": "Wraetannis Titan",
     "guardian": {
       "rarity": "Elite",
@@ -11892,6 +12007,7 @@
     }
   },
   {
+    "id": "SORC-0116",
     "name": "Yourke Crossbowmen",
     "guardian": {
       "rarity": "Exceptional",
@@ -11992,6 +12108,7 @@
     }
   },
   {
+    "id": "SORC-0117",
     "name": "Assorted Animals",
     "guardian": {
       "rarity": "Elite",
@@ -12092,6 +12209,7 @@
     }
   },
   {
+    "id": "SORC-0118",
     "name": "Border Militia",
     "guardian": {
       "rarity": "Ordinary",
@@ -12192,6 +12310,7 @@
     }
   },
   {
+    "id": "SORC-0119",
     "name": "Bury",
     "guardian": {
       "rarity": "Ordinary",
@@ -12300,6 +12419,7 @@
     }
   },
   {
+    "id": "SORC-0120",
     "name": "Call to War",
     "guardian": {
       "rarity": "Exceptional",
@@ -12400,6 +12520,7 @@
     }
   },
   {
+    "id": "SORC-0121",
     "name": "Cave-In",
     "guardian": {
       "rarity": "Exceptional",
@@ -12500,6 +12621,7 @@
     }
   },
   {
+    "id": "SORC-0122",
     "name": "Common Sense",
     "guardian": {
       "rarity": "Ordinary",
@@ -12600,6 +12722,7 @@
     }
   },
   {
+    "id": "SORC-0123",
     "name": "Craterize",
     "guardian": {
       "rarity": "Elite",
@@ -12708,6 +12831,7 @@
     }
   },
   {
+    "id": "SORC-0124",
     "name": "Dispel",
     "guardian": {
       "rarity": "Ordinary",
@@ -12808,6 +12932,7 @@
     }
   },
   {
+    "id": "SORC-0125",
     "name": "Divine Healing",
     "guardian": {
       "rarity": "Exceptional",
@@ -12908,6 +13033,7 @@
     }
   },
   {
+    "id": "SORC-0126",
     "name": "Earthquake",
     "guardian": {
       "rarity": "Elite",
@@ -13016,6 +13142,7 @@
     }
   },
   {
+    "id": "SORC-0127",
     "name": "Exorcism",
     "guardian": {
       "rarity": "Ordinary",
@@ -13116,6 +13243,7 @@
     }
   },
   {
+    "id": "SORC-0128",
     "name": "Gigantism",
     "guardian": {
       "rarity": "Unique",
@@ -13216,6 +13344,7 @@
     }
   },
   {
+    "id": "SORC-0129",
     "name": "Minecart Madness",
     "guardian": {
       "rarity": "Exceptional",
@@ -13316,6 +13445,7 @@
     }
   },
   {
+    "id": "SORC-0130",
     "name": "Overpower",
     "guardian": {
       "rarity": "Ordinary",
@@ -13424,6 +13554,7 @@
     }
   },
   {
+    "id": "SORC-0131",
     "name": "Shield Wall",
     "guardian": {
       "rarity": "Exceptional",
@@ -13524,6 +13655,7 @@
     }
   },
   {
+    "id": "SORC-0132",
     "name": "Star-seeds of Uhr",
     "guardian": {
       "rarity": "Unique",
@@ -13624,6 +13756,7 @@
     }
   },
   {
+    "id": "SORC-0133",
     "name": "Unravel",
     "guardian": {
       "rarity": "Ordinary",
@@ -13724,6 +13857,7 @@
     }
   },
   {
+    "id": "SORC-0134",
     "name": "Crusade",
     "guardian": {
       "rarity": "Unique",
@@ -13824,6 +13958,7 @@
     }
   },
   {
+    "id": "SORC-0135",
     "name": "Entangle Terrain",
     "guardian": {
       "rarity": "Ordinary",
@@ -13932,6 +14067,7 @@
     }
   },
   {
+    "id": "SORC-0136",
     "name": "Rest in Peace",
     "guardian": {
       "rarity": "Elite",
@@ -14032,6 +14168,7 @@
     }
   },
   {
+    "id": "SORC-0137",
     "name": "Ancient Dragon",
     "guardian": {
       "rarity": "Elite",
@@ -14140,6 +14277,7 @@
     }
   },
   {
+    "id": "SORC-0138",
     "name": "Aramos Mercenaries",
     "guardian": {
       "rarity": "Ordinary",
@@ -14240,6 +14378,7 @@
     }
   },
   {
+    "id": "SORC-0139",
     "name": "Askelon Phoenix",
     "guardian": {
       "rarity": "Elite",
@@ -14340,6 +14479,7 @@
     }
   },
   {
+    "id": "SORC-0140",
     "name": "Awakened Mummies",
     "guardian": {
       "rarity": "Exceptional",
@@ -14440,6 +14580,7 @@
     }
   },
   {
+    "id": "SORC-0141",
     "name": "Azuridge Caravan",
     "guardian": {
       "rarity": "Ordinary",
@@ -14540,6 +14681,7 @@
     }
   },
   {
+    "id": "SORC-0142",
     "name": "Bane Widow",
     "guardian": {
       "rarity": "Exceptional",
@@ -14640,6 +14782,7 @@
     }
   },
   {
+    "id": "SORC-0143",
     "name": "Beast of Burden",
     "guardian": {
       "rarity": "Ordinary",
@@ -14740,6 +14883,7 @@
     }
   },
   {
+    "id": "SORC-0144",
     "name": "Bull Demons of Adum",
     "guardian": {
       "rarity": "Elite",
@@ -14848,6 +14992,7 @@
     }
   },
   {
+    "id": "SORC-0145",
     "name": "Cauldron Crones",
     "guardian": {
       "rarity": "Ordinary",
@@ -14948,6 +15093,7 @@
     }
   },
   {
+    "id": "SORC-0146",
     "name": "Cerberus in Chains",
     "guardian": {
       "rarity": "Unique",
@@ -15048,6 +15194,7 @@
     }
   },
   {
+    "id": "SORC-0147",
     "name": "Clamor of Harpies",
     "guardian": {
       "rarity": "Exceptional",
@@ -15156,6 +15303,7 @@
     }
   },
   {
+    "id": "SORC-0148",
     "name": "Colicky Dragonettes",
     "guardian": {
       "rarity": "Exceptional",
@@ -15264,6 +15412,7 @@
     }
   },
   {
+    "id": "SORC-0149",
     "name": "Courtesan Thaïs",
     "guardian": {
       "rarity": "Unique",
@@ -15364,6 +15513,7 @@
     }
   },
   {
+    "id": "SORC-0150",
     "name": "Death Dealer",
     "guardian": {
       "rarity": "Unique",
@@ -15464,6 +15614,7 @@
     }
   },
   {
+    "id": "SORC-0151",
     "name": "Doomsday Prophet",
     "guardian": {
       "rarity": "Unique",
@@ -15572,6 +15723,7 @@
     }
   },
   {
+    "id": "SORC-0152",
     "name": "Escyllion Cyclops",
     "guardian": {
       "rarity": "Exceptional",
@@ -15672,6 +15824,7 @@
     }
   },
   {
+    "id": "SORC-0153",
     "name": "Far East Assassin",
     "guardian": {
       "rarity": "Elite",
@@ -15772,6 +15925,7 @@
     }
   },
   {
+    "id": "SORC-0154",
     "name": "Grösse Poltergeist",
     "guardian": {
       "rarity": "Elite",
@@ -15872,6 +16026,7 @@
     }
   },
   {
+    "id": "SORC-0155",
     "name": "Hillock Basilisk",
     "guardian": {
       "rarity": "Exceptional",
@@ -15980,6 +16135,7 @@
     }
   },
   {
+    "id": "SORC-0156",
     "name": "Infernal Legion",
     "guardian": {
       "rarity": "Elite",
@@ -16088,6 +16244,7 @@
     }
   },
   {
+    "id": "SORC-0157",
     "name": "Karkemish Chimera",
     "guardian": {
       "rarity": "Elite",
@@ -16188,6 +16345,7 @@
     }
   },
   {
+    "id": "SORC-0158",
     "name": "Lava Salamander",
     "guardian": {
       "rarity": "Exceptional",
@@ -16288,6 +16446,7 @@
     }
   },
   {
+    "id": "SORC-0159",
     "name": "Maze Minotaur",
     "guardian": {
       "rarity": "Elite",
@@ -16388,6 +16547,7 @@
     }
   },
   {
+    "id": "SORC-0160",
     "name": "Ogre Goons",
     "guardian": {
       "rarity": "Ordinary",
@@ -16496,6 +16656,7 @@
     }
   },
   {
+    "id": "SORC-0161",
     "name": "Outback Strider",
     "guardian": {
       "rarity": "Exceptional",
@@ -16596,6 +16757,7 @@
     }
   },
   {
+    "id": "SORC-0162",
     "name": "Panorama Manticore",
     "guardian": {
       "rarity": "Elite",
@@ -16696,6 +16858,7 @@
     }
   },
   {
+    "id": "SORC-0163",
     "name": "Petrosian Cavalry",
     "guardian": {
       "rarity": "Ordinary",
@@ -16804,6 +16967,7 @@
     }
   },
   {
+    "id": "SORC-0164",
     "name": "Pit Vipers",
     "guardian": {
       "rarity": "Ordinary",
@@ -16912,6 +17076,7 @@
     }
   },
   {
+    "id": "SORC-0165",
     "name": "Quarrelsome Kobolds",
     "guardian": {
       "rarity": "Exceptional",
@@ -17020,6 +17185,7 @@
     }
   },
   {
+    "id": "SORC-0166",
     "name": "Raal Dromedary",
     "guardian": {
       "rarity": "Ordinary",
@@ -17128,6 +17294,7 @@
     }
   },
   {
+    "id": "SORC-0167",
     "name": "Rimland Nomads",
     "guardian": {
       "rarity": "Ordinary",
@@ -17236,6 +17403,7 @@
     }
   },
   {
+    "id": "SORC-0168",
     "name": "Sacred Scarabs",
     "guardian": {
       "rarity": "Ordinary",
@@ -17344,6 +17512,7 @@
     }
   },
   {
+    "id": "SORC-0169",
     "name": "Sand Worm",
     "guardian": {
       "rarity": "Ordinary",
@@ -17452,6 +17621,7 @@
     }
   },
   {
+    "id": "SORC-0170",
     "name": "Scavenging Fiend",
     "guardian": {
       "rarity": "Exceptional",
@@ -17552,6 +17722,7 @@
     }
   },
   {
+    "id": "SORC-0171",
     "name": "Seasoned Sellsword",
     "guardian": {
       "rarity": "Elite",
@@ -17652,6 +17823,7 @@
     }
   },
   {
+    "id": "SORC-0172",
     "name": "Sirocco Scorpions",
     "guardian": {
       "rarity": "Ordinary",
@@ -17752,6 +17924,7 @@
     }
   },
   {
+    "id": "SORC-0173",
     "name": "Swiven Scout",
     "guardian": {
       "rarity": "Exceptional",
@@ -17852,6 +18025,7 @@
     }
   },
   {
+    "id": "SORC-0174",
     "name": "Tvinnax Berserker",
     "guardian": {
       "rarity": "Exceptional",
@@ -17952,6 +18126,7 @@
     }
   },
   {
+    "id": "SORC-0175",
     "name": "Vile Imp",
     "guardian": {
       "rarity": "Ordinary",
@@ -18052,6 +18227,7 @@
     }
   },
   {
+    "id": "SORC-0176",
     "name": "Wayfaring Pilgrim",
     "guardian": {
       "rarity": "Exceptional",
@@ -18160,6 +18336,7 @@
     }
   },
   {
+    "id": "SORC-0177",
     "name": "Wills-o'-the-Wisp",
     "guardian": {
       "rarity": "Exceptional",
@@ -18268,6 +18445,7 @@
     }
   },
   {
+    "id": "SORC-0178",
     "name": "Backstab",
     "guardian": {
       "rarity": "Exceptional",
@@ -18368,6 +18546,7 @@
     }
   },
   {
+    "id": "SORC-0179",
     "name": "Blaze",
     "guardian": {
       "rarity": "Exceptional",
@@ -18476,6 +18655,7 @@
     }
   },
   {
+    "id": "SORC-0180",
     "name": "Boil",
     "guardian": {
       "rarity": "Ordinary",
@@ -18576,6 +18756,7 @@
     }
   },
   {
+    "id": "SORC-0181",
     "name": "Cone of Flame",
     "guardian": {
       "rarity": "Exceptional",
@@ -18676,6 +18857,7 @@
     }
   },
   {
+    "id": "SORC-0182",
     "name": "Critical Strike",
     "guardian": {
       "rarity": "Ordinary",
@@ -18784,6 +18966,7 @@
     }
   },
   {
+    "id": "SORC-0183",
     "name": "Disintegrate",
     "guardian": {
       "rarity": "Elite",
@@ -18884,6 +19067,7 @@
     }
   },
   {
+    "id": "SORC-0184",
     "name": "Fireball",
     "guardian": {
       "rarity": "Exceptional",
@@ -18992,6 +19176,7 @@
     }
   },
   {
+    "id": "SORC-0185",
     "name": "Firebolts",
     "guardian": {
       "rarity": "Ordinary",
@@ -19100,6 +19285,7 @@
     }
   },
   {
+    "id": "SORC-0186",
     "name": "Flame Wave",
     "guardian": {
       "rarity": "Elite",
@@ -19200,6 +19386,7 @@
     }
   },
   {
+    "id": "SORC-0187",
     "name": "Heat Ray",
     "guardian": {
       "rarity": "Ordinary",
@@ -19308,6 +19495,7 @@
     }
   },
   {
+    "id": "SORC-0188",
     "name": "Immolation",
     "guardian": {
       "rarity": "Unique",
@@ -19408,6 +19596,7 @@
     }
   },
   {
+    "id": "SORC-0189",
     "name": "Incinerate",
     "guardian": {
       "rarity": "Ordinary",
@@ -19516,6 +19705,7 @@
     }
   },
   {
+    "id": "SORC-0190",
     "name": "Infiltrate",
     "guardian": {
       "rarity": "Elite",
@@ -19616,6 +19806,7 @@
     }
   },
   {
+    "id": "SORC-0191",
     "name": "Leap Attack",
     "guardian": {
       "rarity": "Exceptional",
@@ -19716,6 +19907,7 @@
     }
   },
   {
+    "id": "SORC-0192",
     "name": "Mad Dash",
     "guardian": {
       "rarity": "Ordinary",
@@ -19816,6 +20008,7 @@
     }
   },
   {
+    "id": "SORC-0193",
     "name": "Major Explosion",
     "guardian": {
       "rarity": "Elite",
@@ -19924,6 +20117,7 @@
     }
   },
   {
+    "id": "SORC-0194",
     "name": "Meteor Shower",
     "guardian": {
       "rarity": "Elite",
@@ -20024,6 +20218,7 @@
     }
   },
   {
+    "id": "SORC-0195",
     "name": "Minor Explosion",
     "guardian": {
       "rarity": "Ordinary",
@@ -20132,6 +20327,7 @@
     }
   },
   {
+    "id": "SORC-0196",
     "name": "Pact with the Devil",
     "guardian": {
       "rarity": "Unique",
@@ -20232,6 +20428,7 @@
     }
   },
   {
+    "id": "SORC-0197",
     "name": "Poison Nova",
     "guardian": {
       "rarity": "Exceptional",
@@ -20332,6 +20529,7 @@
     }
   },
   {
+    "id": "SORC-0198",
     "name": "Scorched Earth",
     "guardian": {
       "rarity": "Elite",
@@ -20432,6 +20630,7 @@
     }
   },
   {
+    "id": "SORC-0199",
     "name": "Spin Attack",
     "guardian": {
       "rarity": "Ordinary",
@@ -20532,6 +20731,7 @@
     }
   },
   {
+    "id": "SORC-0200",
     "name": "Warp Spasm",
     "guardian": {
       "rarity": "Unique",
@@ -20632,6 +20832,7 @@
     }
   },
   {
+    "id": "SORC-0201",
     "name": "Drought",
     "guardian": {
       "rarity": "Exceptional",
@@ -20732,6 +20933,7 @@
     }
   },
   {
+    "id": "SORC-0202",
     "name": "Jihad",
     "guardian": {
       "rarity": "Unique",
@@ -20832,6 +21034,7 @@
     }
   },
   {
+    "id": "SORC-0203",
     "name": "Sandstorm",
     "guardian": {
       "rarity": "Ordinary",
@@ -20932,6 +21135,7 @@
     }
   },
   {
+    "id": "SORC-0204",
     "name": "Wall of Fire",
     "guardian": {
       "rarity": "Ordinary",
@@ -21032,6 +21236,7 @@
     }
   },
   {
+    "id": "SORC-0205",
     "name": "Wildfire",
     "guardian": {
       "rarity": "Exceptional",
@@ -21140,6 +21345,7 @@
     }
   },
   {
+    "id": "SORC-0206",
     "name": "Accursed Albatross",
     "guardian": {
       "rarity": "Exceptional",
@@ -21240,6 +21446,7 @@
     }
   },
   {
+    "id": "SORC-0207",
     "name": "Adept Illusionist",
     "guardian": {
       "rarity": "Elite",
@@ -21340,6 +21547,7 @@
     }
   },
   {
+    "id": "SORC-0208",
     "name": "Anui Undine",
     "guardian": {
       "rarity": "Exceptional",
@@ -21448,6 +21656,7 @@
     }
   },
   {
+    "id": "SORC-0209",
     "name": "Bridge Troll",
     "guardian": {
       "rarity": "Exceptional",
@@ -21548,6 +21757,7 @@
     }
   },
   {
+    "id": "SORC-0210",
     "name": "Brobdingnag Bullfrog",
     "guardian": {
       "rarity": "Exceptional",
@@ -21656,6 +21866,7 @@
     }
   },
   {
+    "id": "SORC-0211",
     "name": "Captain Baldassare",
     "guardian": {
       "rarity": "Unique",
@@ -21756,6 +21967,7 @@
     }
   },
   {
+    "id": "SORC-0212",
     "name": "Coral-Reef Kelpie",
     "guardian": {
       "rarity": "Ordinary",
@@ -21864,6 +22076,7 @@
     }
   },
   {
+    "id": "SORC-0213",
     "name": "Court Jester",
     "guardian": {
       "rarity": "Elite",
@@ -21964,6 +22177,7 @@
     }
   },
   {
+    "id": "SORC-0214",
     "name": "Deep-Sea Mermaids",
     "guardian": {
       "rarity": "Ordinary",
@@ -22072,6 +22286,7 @@
     }
   },
   {
+    "id": "SORC-0215",
     "name": "Diluvian Kraken",
     "guardian": {
       "rarity": "Elite",
@@ -22180,6 +22395,7 @@
     }
   },
   {
+    "id": "SORC-0216",
     "name": "Felbog Frog Men",
     "guardian": {
       "rarity": "Exceptional",
@@ -22280,6 +22496,7 @@
     }
   },
   {
+    "id": "SORC-0217",
     "name": "Fenvale Muse",
     "guardian": {
       "rarity": "Ordinary",
@@ -22380,6 +22597,7 @@
     }
   },
   {
+    "id": "SORC-0218",
     "name": "Fey Changeling",
     "guardian": {
       "rarity": "Exceptional",
@@ -22480,6 +22698,7 @@
     }
   },
   {
+    "id": "SORC-0219",
     "name": "Ghost Ship",
     "guardian": {
       "rarity": "Elite",
@@ -22580,6 +22799,7 @@
     }
   },
   {
+    "id": "SORC-0220",
     "name": "Giant Shark",
     "guardian": {
       "rarity": "Exceptional",
@@ -22680,6 +22900,7 @@
     }
   },
   {
+    "id": "SORC-0221",
     "name": "Great Old One",
     "guardian": {
       "rarity": "Unique",
@@ -22780,6 +23001,7 @@
     }
   },
   {
+    "id": "SORC-0222",
     "name": "Guile Sirens",
     "guardian": {
       "rarity": "Exceptional",
@@ -22896,6 +23118,7 @@
     }
   },
   {
+    "id": "SORC-0223",
     "name": "Lord of Unland",
     "guardian": {
       "rarity": "Unique",
@@ -22996,6 +23219,7 @@
     }
   },
   {
+    "id": "SORC-0224",
     "name": "Megamoeba",
     "guardian": {
       "rarity": "Elite",
@@ -23104,6 +23328,7 @@
     }
   },
   {
+    "id": "SORC-0225",
     "name": "Mother Nature",
     "guardian": {
       "rarity": "Unique",
@@ -23212,6 +23437,7 @@
     }
   },
   {
+    "id": "SORC-0226",
     "name": "Muck Lampreys",
     "guardian": {
       "rarity": "Ordinary",
@@ -23312,6 +23538,7 @@
     }
   },
   {
+    "id": "SORC-0227",
     "name": "Old Salt Anchorman",
     "guardian": {
       "rarity": "Ordinary",
@@ -23412,6 +23639,7 @@
     }
   },
   {
+    "id": "SORC-0228",
     "name": "Ormund Harpooneers",
     "guardian": {
       "rarity": "Exceptional",
@@ -23512,6 +23740,7 @@
     }
   },
   {
+    "id": "SORC-0229",
     "name": "Pirate Ship",
     "guardian": {
       "rarity": "Ordinary",
@@ -23620,6 +23849,7 @@
     }
   },
   {
+    "id": "SORC-0230",
     "name": "Polar Bears",
     "guardian": {
       "rarity": "Ordinary",
@@ -23728,6 +23958,7 @@
     }
   },
   {
+    "id": "SORC-0231",
     "name": "Polar Explorers",
     "guardian": {
       "rarity": "Elite",
@@ -23828,6 +24059,7 @@
     }
   },
   {
+    "id": "SORC-0232",
     "name": "Porcupine Pufferfish",
     "guardian": {
       "rarity": "Ordinary",
@@ -23928,6 +24160,7 @@
     }
   },
   {
+    "id": "SORC-0233",
     "name": "Ruler of Thul",
     "guardian": {
       "rarity": "Unique",
@@ -24028,6 +24261,7 @@
     }
   },
   {
+    "id": "SORC-0234",
     "name": "Sea Raider",
     "guardian": {
       "rarity": "Exceptional",
@@ -24128,6 +24362,7 @@
     }
   },
   {
+    "id": "SORC-0235",
     "name": "Sea Serpent",
     "guardian": {
       "rarity": "Ordinary",
@@ -24236,6 +24471,7 @@
     }
   },
   {
+    "id": "SORC-0236",
     "name": "Sedge Crabs",
     "guardian": {
       "rarity": "Ordinary",
@@ -24344,6 +24580,7 @@
     }
   },
   {
+    "id": "SORC-0237",
     "name": "Seirawan Hydra",
     "guardian": {
       "rarity": "Elite",
@@ -24444,6 +24681,7 @@
     }
   },
   {
+    "id": "SORC-0238",
     "name": "Selfsame Simulacrum",
     "guardian": {
       "rarity": "Elite",
@@ -24544,6 +24782,7 @@
     }
   },
   {
+    "id": "SORC-0239",
     "name": "Sneak Thief",
     "guardian": {
       "rarity": "Elite",
@@ -24644,6 +24883,7 @@
     }
   },
   {
+    "id": "SORC-0240",
     "name": "Swamp Buffalo",
     "guardian": {
       "rarity": "Ordinary",
@@ -24752,6 +24992,7 @@
     }
   },
   {
+    "id": "SORC-0241",
     "name": "Swan Maidens",
     "guardian": {
       "rarity": "Ordinary",
@@ -24860,6 +25101,7 @@
     }
   },
   {
+    "id": "SORC-0242",
     "name": "Tide Naiads",
     "guardian": {
       "rarity": "Exceptional",
@@ -24968,6 +25210,7 @@
     }
   },
   {
+    "id": "SORC-0243",
     "name": "Tringh Constrictor",
     "guardian": {
       "rarity": "Exceptional",
@@ -25068,6 +25311,7 @@
     }
   },
   {
+    "id": "SORC-0244",
     "name": "Tufted Turtles",
     "guardian": {
       "rarity": "Ordinary",
@@ -25168,6 +25412,7 @@
     }
   },
   {
+    "id": "SORC-0245",
     "name": "Unland Angler",
     "guardian": {
       "rarity": "Elite",
@@ -25276,6 +25521,7 @@
     }
   },
   {
+    "id": "SORC-0246",
     "name": "Unland Eel",
     "guardian": {
       "rarity": "Exceptional",
@@ -25376,6 +25622,7 @@
     }
   },
   {
+    "id": "SORC-0247",
     "name": "Yokai Kappas",
     "guardian": {
       "rarity": "Elite",
@@ -25476,6 +25723,7 @@
     }
   },
   {
+    "id": "SORC-0248",
     "name": "Dodge Roll",
     "guardian": {
       "rarity": "Exceptional",
@@ -25584,6 +25832,7 @@
     }
   },
   {
+    "id": "SORC-0249",
     "name": "Drown",
     "guardian": {
       "rarity": "Ordinary",
@@ -25692,6 +25941,7 @@
     }
   },
   {
+    "id": "SORC-0250",
     "name": "Extinguish",
     "guardian": {
       "rarity": "Ordinary",
@@ -25792,6 +26042,7 @@
     }
   },
   {
+    "id": "SORC-0251",
     "name": "Fire Harpoons!",
     "guardian": {
       "rarity": "Ordinary",
@@ -25892,6 +26143,7 @@
     }
   },
   {
+    "id": "SORC-0252",
     "name": "Font of Life",
     "guardian": {
       "rarity": "Exceptional",
@@ -25992,6 +26244,7 @@
     }
   },
   {
+    "id": "SORC-0253",
     "name": "Frost Nova",
     "guardian": {
       "rarity": "Exceptional",
@@ -26100,6 +26353,7 @@
     }
   },
   {
+    "id": "SORC-0254",
     "name": "Geyser",
     "guardian": {
       "rarity": "Exceptional",
@@ -26200,6 +26454,7 @@
     }
   },
   {
+    "id": "SORC-0255",
     "name": "Ice Lance",
     "guardian": {
       "rarity": "Ordinary",
@@ -26308,6 +26563,7 @@
     }
   },
   {
+    "id": "SORC-0256",
     "name": "Marine Voyage",
     "guardian": {
       "rarity": "Exceptional",
@@ -26416,6 +26672,7 @@
     }
   },
   {
+    "id": "SORC-0257",
     "name": "Plague of Frogs",
     "guardian": {
       "rarity": "Unique",
@@ -26516,6 +26773,7 @@
     }
   },
   {
+    "id": "SORC-0258",
     "name": "Pollimorph",
     "guardian": {
       "rarity": "Elite",
@@ -26616,6 +26874,7 @@
     }
   },
   {
+    "id": "SORC-0259",
     "name": "Replication",
     "guardian": {
       "rarity": "Elite",
@@ -26716,6 +26975,7 @@
     }
   },
   {
+    "id": "SORC-0260",
     "name": "Riptide",
     "guardian": {
       "rarity": "Ordinary",
@@ -26824,6 +27084,7 @@
     }
   },
   {
+    "id": "SORC-0261",
     "name": "Shrink",
     "guardian": {
       "rarity": "Exceptional",
@@ -26924,6 +27185,7 @@
     }
   },
   {
+    "id": "SORC-0262",
     "name": "Sleep",
     "guardian": {
       "rarity": "Ordinary",
@@ -27024,6 +27286,7 @@
     }
   },
   {
+    "id": "SORC-0263",
     "name": "Stormy Seas",
     "guardian": {
       "rarity": "Exceptional",
@@ -27124,6 +27387,7 @@
     }
   },
   {
+    "id": "SORC-0264",
     "name": "Twist of Fate",
     "guardian": {
       "rarity": "Unique",
@@ -27224,6 +27488,7 @@
     }
   },
   {
+    "id": "SORC-0265",
     "name": "Upwelling",
     "guardian": {
       "rarity": "Exceptional",
@@ -27332,6 +27597,7 @@
     }
   },
   {
+    "id": "SORC-0266",
     "name": "Wrath of the Sea",
     "guardian": {
       "rarity": "Elite",
@@ -27440,6 +27706,7 @@
     }
   },
   {
+    "id": "SORC-0267",
     "name": "Abundance",
     "guardian": {
       "rarity": "Elite",
@@ -27540,6 +27807,7 @@
     }
   },
   {
+    "id": "SORC-0268",
     "name": "Atlantean Fate",
     "guardian": {
       "rarity": "Unique",
@@ -27640,6 +27908,7 @@
     }
   },
   {
+    "id": "SORC-0269",
     "name": "Blizzard",
     "guardian": {
       "rarity": "Ordinary",
@@ -27740,6 +28009,7 @@
     }
   },
   {
+    "id": "SORC-0270",
     "name": "Flood",
     "guardian": {
       "rarity": "Exceptional",
@@ -27848,6 +28118,7 @@
     }
   },
   {
+    "id": "SORC-0271",
     "name": "Mariner's Curse",
     "guardian": {
       "rarity": "Exceptional",
@@ -27948,6 +28219,7 @@
     }
   },
   {
+    "id": "SORC-0272",
     "name": "Silence",
     "guardian": {
       "rarity": "Elite",
@@ -28048,6 +28320,7 @@
     }
   },
   {
+    "id": "SORC-0273",
     "name": "Wall of Ice",
     "guardian": {
       "rarity": "Ordinary",
@@ -28148,6 +28421,7 @@
     }
   },
   {
+    "id": "SORC-0274",
     "name": "All-terrain Vestments",
     "guardian": {
       "rarity": "Elite",
@@ -28248,6 +28522,7 @@
     }
   },
   {
+    "id": "SORC-0275",
     "name": "Amethyst Core",
     "guardian": {
       "rarity": "Unique",
@@ -28348,6 +28623,7 @@
     }
   },
   {
+    "id": "SORC-0276",
     "name": "Angel's Egg",
     "guardian": {
       "rarity": "Elite",
@@ -28448,6 +28724,7 @@
     }
   },
   {
+    "id": "SORC-0277",
     "name": "Aquamarine Core",
     "guardian": {
       "rarity": "Unique",
@@ -28548,6 +28825,7 @@
     }
   },
   {
+    "id": "SORC-0278",
     "name": "Battering Ram",
     "guardian": {
       "rarity": "Exceptional",
@@ -28648,6 +28926,7 @@
     }
   },
   {
+    "id": "SORC-0279",
     "name": "Belfry",
     "guardian": {
       "rarity": "Elite",
@@ -28748,6 +29027,7 @@
     }
   },
   {
+    "id": "SORC-0280",
     "name": "Black Obelisk",
     "guardian": {
       "rarity": "Elite",
@@ -28848,6 +29128,7 @@
     }
   },
   {
+    "id": "SORC-0281",
     "name": "Blasted Oak",
     "guardian": {
       "rarity": "Unique",
@@ -28948,6 +29229,7 @@
     }
   },
   {
+    "id": "SORC-0282",
     "name": "Buried Treasure",
     "guardian": {
       "rarity": "Exceptional",
@@ -29048,6 +29330,7 @@
     }
   },
   {
+    "id": "SORC-0283",
     "name": "Chains of Prometheus",
     "guardian": {
       "rarity": "Elite",
@@ -29148,6 +29431,7 @@
     }
   },
   {
+    "id": "SORC-0284",
     "name": "Crave Golem",
     "guardian": {
       "rarity": "Exceptional",
@@ -29248,6 +29532,7 @@
     }
   },
   {
+    "id": "SORC-0285",
     "name": "Crown of the Victor",
     "guardian": {
       "rarity": "Unique",
@@ -29348,6 +29633,7 @@
     }
   },
   {
+    "id": "SORC-0286",
     "name": "Devil's Egg",
     "guardian": {
       "rarity": "Elite",
@@ -29456,6 +29742,7 @@
     }
   },
   {
+    "id": "SORC-0287",
     "name": "Doomsday Device",
     "guardian": {
       "rarity": "Unique",
@@ -29564,6 +29851,7 @@
     }
   },
   {
+    "id": "SORC-0288",
     "name": "Drums of Doom",
     "guardian": {
       "rarity": "Elite",
@@ -29672,6 +29960,7 @@
     }
   },
   {
+    "id": "SORC-0289",
     "name": "Erik's Curiosa",
     "guardian": {
       "rarity": "Unique",
@@ -29735,6 +30024,7 @@
     }
   },
   {
+    "id": "SORC-0290",
     "name": "Flaming Sword",
     "guardian": {
       "rarity": "Exceptional",
@@ -29835,6 +30125,7 @@
     }
   },
   {
+    "id": "SORC-0291",
     "name": "Gilded Aegis",
     "guardian": {
       "rarity": "Unique",
@@ -29935,6 +30226,7 @@
     }
   },
   {
+    "id": "SORC-0292",
     "name": "Iron Shackles",
     "guardian": {
       "rarity": "Exceptional",
@@ -30035,6 +30327,7 @@
     }
   },
   {
+    "id": "SORC-0293",
     "name": "Kythera Mechanism",
     "guardian": {
       "rarity": "Unique",
@@ -30135,6 +30428,7 @@
     }
   },
   {
+    "id": "SORC-0294",
     "name": "Land Deed",
     "guardian": {
       "rarity": "Elite",
@@ -30235,6 +30529,7 @@
     }
   },
   {
+    "id": "SORC-0295",
     "name": "Lucky Charm",
     "guardian": {
       "rarity": "Exceptional",
@@ -30335,6 +30630,7 @@
     }
   },
   {
+    "id": "SORC-0296",
     "name": "Maddening Bells",
     "guardian": {
       "rarity": "Elite",
@@ -30435,6 +30731,7 @@
     }
   },
   {
+    "id": "SORC-0297",
     "name": "Magellan Globe",
     "guardian": {
       "rarity": "Elite",
@@ -30535,6 +30832,7 @@
     }
   },
   {
+    "id": "SORC-0298",
     "name": "Magnetic Muzzle",
     "guardian": {
       "rarity": "Elite",
@@ -30635,6 +30933,7 @@
     }
   },
   {
+    "id": "SORC-0299",
     "name": "Mask of Mayhem",
     "guardian": {
       "rarity": "Elite",
@@ -30735,6 +31034,7 @@
     }
   },
   {
+    "id": "SORC-0300",
     "name": "Mix Aer",
     "guardian": {
       "rarity": "Elite",
@@ -30835,6 +31135,7 @@
     }
   },
   {
+    "id": "SORC-0301",
     "name": "Mix Aqua",
     "guardian": {
       "rarity": "Elite",
@@ -30935,6 +31236,7 @@
     }
   },
   {
+    "id": "SORC-0302",
     "name": "Mix Ignis",
     "guardian": {
       "rarity": "Elite",
@@ -31035,6 +31337,7 @@
     }
   },
   {
+    "id": "SORC-0303",
     "name": "Mix Terra",
     "guardian": {
       "rarity": "Elite",
@@ -31135,6 +31438,7 @@
     }
   },
   {
+    "id": "SORC-0304",
     "name": "Onyx Core",
     "guardian": {
       "rarity": "Unique",
@@ -31235,6 +31539,7 @@
     }
   },
   {
+    "id": "SORC-0305",
     "name": "Orb of Ba'al Berith",
     "guardian": {
       "rarity": "Unique",
@@ -31335,6 +31640,7 @@
     }
   },
   {
+    "id": "SORC-0306",
     "name": "Payload Trebuchet",
     "guardian": {
       "rarity": "Elite",
@@ -31435,6 +31741,7 @@
     }
   },
   {
+    "id": "SORC-0307",
     "name": "Pendulum of Peril",
     "guardian": {
       "rarity": "Unique",
@@ -31535,6 +31842,7 @@
     }
   },
   {
+    "id": "SORC-0308",
     "name": "Philosopher's Stone",
     "guardian": {
       "rarity": "Unique",
@@ -31635,6 +31943,7 @@
     }
   },
   {
+    "id": "SORC-0309",
     "name": "Pnakotic Manuscript",
     "guardian": {
       "rarity": "Unique",
@@ -31735,6 +32044,7 @@
     }
   },
   {
+    "id": "SORC-0310",
     "name": "Poisonous Dagger",
     "guardian": {
       "rarity": "Exceptional",
@@ -31835,6 +32145,7 @@
     }
   },
   {
+    "id": "SORC-0311",
     "name": "Purge Juggernaut",
     "guardian": {
       "rarity": "Elite",
@@ -31935,6 +32246,7 @@
     }
   },
   {
+    "id": "SORC-0312",
     "name": "Rolling Boulder",
     "guardian": {
       "rarity": "Exceptional",
@@ -32035,6 +32347,7 @@
     }
   },
   {
+    "id": "SORC-0313",
     "name": "Ruby Core",
     "guardian": {
       "rarity": "Unique",
@@ -32135,6 +32448,7 @@
     }
   },
   {
+    "id": "SORC-0314",
     "name": "Scarecrow",
     "guardian": {
       "rarity": "Ordinary",
@@ -32235,6 +32549,7 @@
     }
   },
   {
+    "id": "SORC-0315",
     "name": "Screaming Skull",
     "guardian": {
       "rarity": "Elite",
@@ -32343,6 +32658,7 @@
     }
   },
   {
+    "id": "SORC-0316",
     "name": "Seven-League Boots",
     "guardian": {
       "rarity": "Unique",
@@ -32443,6 +32759,7 @@
     }
   },
   {
+    "id": "SORC-0317",
     "name": "Siege Ballista",
     "guardian": {
       "rarity": "Exceptional",
@@ -32551,6 +32868,7 @@
     }
   },
   {
+    "id": "SORC-0318",
     "name": "Spear of Destiny",
     "guardian": {
       "rarity": "Unique",
@@ -32659,6 +32977,7 @@
     }
   },
   {
+    "id": "SORC-0319",
     "name": "Sunken Treasure",
     "guardian": {
       "rarity": "Exceptional",
@@ -32767,6 +33086,7 @@
     }
   },
   {
+    "id": "SORC-0320",
     "name": "The Immortal Throne",
     "guardian": {
       "rarity": "Unique",
@@ -32867,6 +33187,7 @@
     }
   },
   {
+    "id": "SORC-0321",
     "name": "Torshammar Trinket",
     "guardian": {
       "rarity": "Exceptional",
@@ -32967,6 +33288,7 @@
     }
   },
   {
+    "id": "SORC-0322",
     "name": "Truesight Crossbow",
     "guardian": {
       "rarity": "Exceptional",
@@ -33067,6 +33389,7 @@
     }
   },
   {
+    "id": "SORC-0323",
     "name": "Undertaker Engine",
     "guardian": {
       "rarity": "Elite",
@@ -33167,6 +33490,7 @@
     }
   },
   {
+    "id": "SORC-0324",
     "name": "Wicker Manikin",
     "guardian": {
       "rarity": "Ordinary",
@@ -33267,6 +33591,7 @@
     }
   },
   {
+    "id": "SORC-0325",
     "name": "Wings of Invention",
     "guardian": {
       "rarity": "Exceptional",
@@ -33367,6 +33692,7 @@
     }
   },
   {
+    "id": "SORC-0326",
     "name": "Cloud City",
     "guardian": {
       "rarity": "Unique",
@@ -33483,6 +33809,7 @@
     }
   },
   {
+    "id": "SORC-0327",
     "name": "Dark Tower",
     "guardian": {
       "rarity": "Ordinary",
@@ -33591,6 +33918,7 @@
     }
   },
   {
+    "id": "SORC-0328",
     "name": "Gothic Tower",
     "guardian": {
       "rarity": "Ordinary",
@@ -33699,6 +34027,7 @@
     }
   },
   {
+    "id": "SORC-0329",
     "name": "Lone Tower",
     "guardian": {
       "rarity": "Ordinary",
@@ -33807,6 +34136,7 @@
     }
   },
   {
+    "id": "SORC-0330",
     "name": "Mountain Pass",
     "guardian": {
       "rarity": "Exceptional",
@@ -33915,6 +34245,7 @@
     }
   },
   {
+    "id": "SORC-0331",
     "name": "Observatory",
     "guardian": {
       "rarity": "Elite",
@@ -34023,6 +34354,7 @@
     }
   },
   {
+    "id": "SORC-0332",
     "name": "Updraft Ridge",
     "guardian": {
       "rarity": "Exceptional",
@@ -34131,6 +34463,7 @@
     }
   },
   {
+    "id": "SORC-0333",
     "name": "Watchtower",
     "guardian": {
       "rarity": "Exceptional",
@@ -34231,6 +34564,7 @@
     }
   },
   {
+    "id": "SORC-0334",
     "name": "Bedrock",
     "guardian": {
       "rarity": "Exceptional",
@@ -34331,6 +34665,7 @@
     }
   },
   {
+    "id": "SORC-0335",
     "name": "Gnome Hollows",
     "guardian": {
       "rarity": "Exceptional",
@@ -34431,6 +34766,7 @@
     }
   },
   {
+    "id": "SORC-0336",
     "name": "Holy Ground",
     "guardian": {
       "rarity": "Exceptional",
@@ -34539,6 +34875,7 @@
     }
   },
   {
+    "id": "SORC-0337",
     "name": "Humble Village",
     "guardian": {
       "rarity": "Ordinary",
@@ -34647,6 +34984,7 @@
     }
   },
   {
+    "id": "SORC-0338",
     "name": "Kingdom of Agartha",
     "guardian": {
       "rarity": "Unique",
@@ -34747,6 +35085,7 @@
     }
   },
   {
+    "id": "SORC-0339",
     "name": "Pillar of Zeiros",
     "guardian": {
       "rarity": "Unique",
@@ -34847,6 +35186,7 @@
     }
   },
   {
+    "id": "SORC-0340",
     "name": "Quagmire",
     "guardian": {
       "rarity": "Exceptional",
@@ -34955,6 +35295,7 @@
     }
   },
   {
+    "id": "SORC-0341",
     "name": "Rift Valley",
     "guardian": {
       "rarity": "Elite",
@@ -35055,6 +35396,7 @@
     }
   },
   {
+    "id": "SORC-0342",
     "name": "Rustic Village",
     "guardian": {
       "rarity": "Ordinary",
@@ -35163,6 +35505,7 @@
     }
   },
   {
+    "id": "SORC-0343",
     "name": "Secret Tunnel",
     "guardian": {
       "rarity": "Exceptional",
@@ -35263,6 +35606,7 @@
     }
   },
   {
+    "id": "SORC-0344",
     "name": "Simple Village",
     "guardian": {
       "rarity": "Ordinary",
@@ -35371,6 +35715,7 @@
     }
   },
   {
+    "id": "SORC-0345",
     "name": "Vantage Hills",
     "guardian": {
       "rarity": "Exceptional",
@@ -35479,6 +35824,7 @@
     }
   },
   {
+    "id": "SORC-0346",
     "name": "Arid Desert",
     "guardian": {
       "rarity": "Ordinary",
@@ -35587,6 +35933,7 @@
     }
   },
   {
+    "id": "SORC-0347",
     "name": "Dwarven Forge",
     "guardian": {
       "rarity": "Elite",
@@ -35687,6 +36034,7 @@
     }
   },
   {
+    "id": "SORC-0348",
     "name": "Mirage",
     "guardian": {
       "rarity": "Elite",
@@ -35787,6 +36135,7 @@
     }
   },
   {
+    "id": "SORC-0349",
     "name": "Red Desert",
     "guardian": {
       "rarity": "Ordinary",
@@ -35895,6 +36244,7 @@
     }
   },
   {
+    "id": "SORC-0350",
     "name": "Remote Desert",
     "guardian": {
       "rarity": "Ordinary",
@@ -36003,6 +36353,7 @@
     }
   },
   {
+    "id": "SORC-0351",
     "name": "River of Flame",
     "guardian": {
       "rarity": "Unique",
@@ -36111,6 +36462,7 @@
     }
   },
   {
+    "id": "SORC-0352",
     "name": "Shifting Sands",
     "guardian": {
       "rarity": "Exceptional",
@@ -36219,6 +36571,7 @@
     }
   },
   {
+    "id": "SORC-0353",
     "name": "Smokestacks of Gnaak",
     "guardian": {
       "rarity": "Unique",
@@ -36319,6 +36672,7 @@
     }
   },
   {
+    "id": "SORC-0354",
     "name": "Vesuvius",
     "guardian": {
       "rarity": "Unique",
@@ -36427,6 +36781,7 @@
     }
   },
   {
+    "id": "SORC-0355",
     "name": "Autumn River",
     "guardian": {
       "rarity": "Ordinary",
@@ -36535,6 +36890,7 @@
     }
   },
   {
+    "id": "SORC-0356",
     "name": "Floodplain",
     "guardian": {
       "rarity": "Exceptional",
@@ -36643,6 +36999,7 @@
     }
   },
   {
+    "id": "SORC-0357",
     "name": "Iceberg",
     "guardian": {
       "rarity": "Exceptional",
@@ -36743,6 +37100,7 @@
     }
   },
   {
+    "id": "SORC-0358",
     "name": "Island Leviathan",
     "guardian": {
       "rarity": "Elite",
@@ -36851,6 +37209,7 @@
     }
   },
   {
+    "id": "SORC-0359",
     "name": "Maelström",
     "guardian": {
       "rarity": "Unique",
@@ -36959,6 +37318,7 @@
     }
   },
   {
+    "id": "SORC-0360",
     "name": "Spring River",
     "guardian": {
       "rarity": "Ordinary",
@@ -37067,6 +37427,7 @@
     }
   },
   {
+    "id": "SORC-0361",
     "name": "Summer River",
     "guardian": {
       "rarity": "Ordinary",
@@ -37175,6 +37536,7 @@
     }
   },
   {
+    "id": "SORC-0362",
     "name": "Tadpole Pool",
     "guardian": {
       "rarity": "Unique",
@@ -37283,6 +37645,7 @@
     }
   },
   {
+    "id": "SORC-0363",
     "name": "Undertow",
     "guardian": {
       "rarity": "Exceptional",
@@ -37391,6 +37754,7 @@
     }
   },
   {
+    "id": "SORC-0364",
     "name": "Aqueduct",
     "guardian": {
       "rarity": "Exceptional",
@@ -37491,6 +37855,7 @@
     }
   },
   {
+    "id": "SORC-0365",
     "name": "Lighthouse",
     "guardian": {
       "rarity": "Exceptional",
@@ -37591,6 +37956,7 @@
     }
   },
   {
+    "id": "SORC-0366",
     "name": "Oasis",
     "guardian": {
       "rarity": "Exceptional",
@@ -37691,6 +38057,7 @@
     }
   },
   {
+    "id": "SORC-0367",
     "name": "Pristine Paradise",
     "guardian": {
       "rarity": "Unique",
@@ -37791,6 +38158,7 @@
     }
   },
   {
+    "id": "SORC-0368",
     "name": "Ruins",
     "guardian": {
       "rarity": "Exceptional",
@@ -37891,6 +38259,7 @@
     }
   },
   {
+    "id": "SORC-0369",
     "name": "Steppe",
     "guardian": {
       "rarity": "Exceptional",
@@ -37991,6 +38360,7 @@
     }
   },
   {
+    "id": "SORC-0370",
     "name": "The Colour Out of Space",
     "guardian": {
       "rarity": "Unique",
@@ -38099,6 +38469,7 @@
     }
   },
   {
+    "id": "SORC-0371",
     "name": "Windmill",
     "guardian": {
       "rarity": "Exceptional",
@@ -38199,6 +38570,7 @@
     }
   },
   {
+    "id": "SORC-0372",
     "name": "Astral Alcazar",
     "guardian": {
       "rarity": "Elite",
@@ -38299,6 +38671,7 @@
     }
   },
   {
+    "id": "SORC-0373",
     "name": "Battlefield",
     "guardian": {
       "rarity": "Elite",
@@ -38399,6 +38772,7 @@
     }
   },
   {
+    "id": "SORC-0374",
     "name": "Boneyard",
     "guardian": {
       "rarity": "Unique",
@@ -38499,6 +38873,7 @@
     }
   },
   {
+    "id": "SORC-0375",
     "name": "Bottomless Pit",
     "guardian": {
       "rarity": "Elite",
@@ -38607,6 +38982,7 @@
     }
   },
   {
+    "id": "SORC-0376",
     "name": "Cornerstone",
     "guardian": {
       "rarity": "Exceptional",
@@ -38715,6 +39091,7 @@
     }
   },
   {
+    "id": "SORC-0377",
     "name": "Crossroads",
     "guardian": {
       "rarity": "Elite",
@@ -38815,6 +39192,7 @@
     }
   },
   {
+    "id": "SORC-0378",
     "name": "Dome of Osiros",
     "guardian": {
       "rarity": "Unique",
@@ -38915,6 +39293,7 @@
     }
   },
   {
+    "id": "SORC-0379",
     "name": "Donnybrook Inn",
     "guardian": {
       "rarity": "Unique",
@@ -39015,6 +39394,7 @@
     }
   },
   {
+    "id": "SORC-0380",
     "name": "Edge of the World",
     "guardian": {
       "rarity": "Elite",
@@ -39115,6 +39495,7 @@
     }
   },
   {
+    "id": "SORC-0381",
     "name": "Free City",
     "guardian": {
       "rarity": "Exceptional",
@@ -39215,6 +39596,7 @@
     }
   },
   {
+    "id": "SORC-0382",
     "name": "Great Wall",
     "guardian": {
       "rarity": "Unique",
@@ -39315,6 +39697,7 @@
     }
   },
   {
+    "id": "SORC-0383",
     "name": "Imperial Road",
     "guardian": {
       "rarity": "Elite",
@@ -39415,6 +39798,7 @@
     }
   },
   {
+    "id": "SORC-0384",
     "name": "Mirror Realm",
     "guardian": {
       "rarity": "Unique",
@@ -39515,6 +39899,7 @@
     }
   },
   {
+    "id": "SORC-0385",
     "name": "Mudflow",
     "guardian": {
       "rarity": "Exceptional",
@@ -39615,6 +40000,7 @@
     }
   },
   {
+    "id": "SORC-0386",
     "name": "Planar Gate",
     "guardian": {
       "rarity": "Elite",
@@ -39715,6 +40101,7 @@
     }
   },
   {
+    "id": "SORC-0387",
     "name": "Primordial Spring",
     "guardian": {
       "rarity": "Elite",
@@ -39815,6 +40202,7 @@
     }
   },
   {
+    "id": "SORC-0388",
     "name": "Roots of Yggdrasil",
     "guardian": {
       "rarity": "Unique",
@@ -39915,6 +40303,7 @@
     }
   },
   {
+    "id": "SORC-0389",
     "name": "Sinkhole",
     "guardian": {
       "rarity": "Elite",
@@ -40015,6 +40404,7 @@
     }
   },
   {
+    "id": "SORC-0390",
     "name": "Standing Stones",
     "guardian": {
       "rarity": "Elite",
@@ -40123,6 +40513,7 @@
     }
   },
   {
+    "id": "SORC-0391",
     "name": "The Geistwood",
     "guardian": {
       "rarity": "Unique",
@@ -40223,6 +40614,7 @@
     }
   },
   {
+    "id": "SORC-0392",
     "name": "Vaults of Zul",
     "guardian": {
       "rarity": "Unique",
@@ -40323,6 +40715,7 @@
     }
   },
   {
+    "id": "SORC-0393",
     "name": "Avatar of Air",
     "guardian": {
       "rarity": "Elite",
@@ -40386,6 +40779,7 @@
     }
   },
   {
+    "id": "SORC-0394",
     "name": "Avatar of Earth",
     "guardian": {
       "rarity": "Elite",
@@ -40449,6 +40843,7 @@
     }
   },
   {
+    "id": "SORC-0395",
     "name": "Avatar of Fire",
     "guardian": {
       "rarity": "Elite",
@@ -40512,6 +40907,7 @@
     }
   },
   {
+    "id": "SORC-0396",
     "name": "Avatar of Water",
     "guardian": {
       "rarity": "Elite",
@@ -40575,6 +40971,7 @@
     }
   },
   {
+    "id": "SORC-0397",
     "name": "Battlemage",
     "guardian": {
       "rarity": "Elite",
@@ -40675,6 +41072,7 @@
     }
   },
   {
+    "id": "SORC-0398",
     "name": "Deathspeaker",
     "guardian": {
       "rarity": "Elite",
@@ -40775,6 +41173,7 @@
     }
   },
   {
+    "id": "SORC-0399",
     "name": "Elementalist",
     "guardian": {
       "rarity": "Elite",
@@ -40875,6 +41274,7 @@
     }
   },
   {
+    "id": "SORC-0400",
     "name": "Enchantress",
     "guardian": {
       "rarity": "Elite",
@@ -40975,6 +41375,7 @@
     }
   },
   {
+    "id": "SORC-0401",
     "name": "Pathfinder",
     "guardian": {
       "rarity": "Unique",
@@ -41075,6 +41476,7 @@
     }
   },
   {
+    "id": "SORC-0402",
     "name": "Seer",
     "guardian": {
       "rarity": "Elite",
@@ -41175,6 +41577,7 @@
     }
   },
   {
+    "id": "SORC-0403",
     "name": "Sorcerer",
     "guardian": {
       "rarity": "Ordinary",
@@ -41336,6 +41739,7 @@
     }
   },
   {
+    "id": "SORC-0404",
     "name": "Relentless Crowd",
     "guardian": {
       "rarity": "Ordinary",
@@ -41391,6 +41795,7 @@
     }
   },
   {
+    "id": "SORC-0405",
     "name": "Winter River",
     "guardian": {
       "rarity": "Ordinary",
@@ -41446,6 +41851,7 @@
     }
   },
   {
+    "id": "SORC-0406",
     "name": "Sparkmage",
     "guardian": {
       "rarity": "Ordinary",
@@ -41509,6 +41915,7 @@
     }
   },
   {
+    "id": "SORC-0407",
     "name": "Geomancer",
     "guardian": {
       "rarity": "Ordinary",
@@ -41572,6 +41979,7 @@
     }
   },
   {
+    "id": "SORC-0408",
     "name": "Flamecaller",
     "guardian": {
       "rarity": "Ordinary",
@@ -41635,6 +42043,7 @@
     }
   },
   {
+    "id": "SORC-0409",
     "name": "Waveshaper",
     "guardian": {
       "rarity": "Ordinary",
@@ -41698,6 +42107,7 @@
     }
   },
   {
+    "id": "SORC-0410",
     "name": "Spellslinger",
     "guardian": {
       "rarity": "Ordinary",
@@ -41761,6 +42171,7 @@
     }
   },
   {
+    "id": "SORC-0411",
     "name": "Spire",
     "guardian": {
       "rarity": "Ordinary",
@@ -41816,6 +42227,7 @@
     }
   },
   {
+    "id": "SORC-0412",
     "name": "Stream",
     "guardian": {
       "rarity": "Ordinary",
@@ -41871,6 +42283,7 @@
     }
   },
   {
+    "id": "SORC-0413",
     "name": "Valley",
     "guardian": {
       "rarity": "Ordinary",
@@ -41926,6 +42339,7 @@
     }
   },
   {
+    "id": "SORC-0414",
     "name": "Wasteland",
     "guardian": {
       "rarity": "Ordinary",
@@ -41981,6 +42395,7 @@
     }
   },
   {
+    "id": "SORC-0415",
     "name": "13 Treasures of Britain",
     "guardian": {
       "rarity": "Unique",
@@ -42044,6 +42459,7 @@
     }
   },
   {
+    "id": "SORC-0416",
     "name": "A Midsummer Night's Dream",
     "guardian": {
       "rarity": "Unique",
@@ -42107,6 +42523,7 @@
     }
   },
   {
+    "id": "SORC-0417",
     "name": "Amulet of Niniane",
     "guardian": {
       "rarity": "Unique",
@@ -42170,6 +42587,7 @@
     }
   },
   {
+    "id": "SORC-0418",
     "name": "Annual Fair",
     "guardian": {
       "rarity": "Exceptional",
@@ -42233,6 +42651,7 @@
     }
   },
   {
+    "id": "SORC-0419",
     "name": "Arcane Barrage",
     "guardian": {
       "rarity": "Elite",
@@ -42296,6 +42715,7 @@
     }
   },
   {
+    "id": "SORC-0420",
     "name": "Archimago",
     "guardian": {
       "rarity": "Elite",
@@ -42359,6 +42779,7 @@
     }
   },
   {
+    "id": "SORC-0421",
     "name": "Arc Lightning",
     "guardian": {
       "rarity": "Ordinary",
@@ -42422,6 +42843,7 @@
     }
   },
   {
+    "id": "SORC-0422",
     "name": "Attack by Night",
     "guardian": {
       "rarity": "Exceptional",
@@ -42485,6 +42907,7 @@
     }
   },
   {
+    "id": "SORC-0423",
     "name": "Avalon",
     "guardian": {
       "rarity": "Unique",
@@ -42548,6 +42971,7 @@
     }
   },
   {
+    "id": "SORC-0424",
     "name": "Babbling Brook",
     "guardian": {
       "rarity": "Exceptional",
@@ -42611,6 +43035,7 @@
     }
   },
   {
+    "id": "SORC-0425",
     "name": "Bailey",
     "guardian": {
       "rarity": "Exceptional",
@@ -42674,6 +43099,7 @@
     }
   },
   {
+    "id": "SORC-0426",
     "name": "Ball Lightning",
     "guardian": {
       "rarity": "Elite",
@@ -42737,6 +43163,7 @@
     }
   },
   {
+    "id": "SORC-0427",
     "name": "Band of Thieves",
     "guardian": {
       "rarity": "Ordinary",
@@ -42800,6 +43227,7 @@
     }
   },
   {
+    "id": "SORC-0428",
     "name": "Beacon",
     "guardian": {
       "rarity": "Exceptional",
@@ -42863,6 +43291,7 @@
     }
   },
   {
+    "id": "SORC-0429",
     "name": "Black Knight",
     "guardian": {
       "rarity": "Exceptional",
@@ -42926,6 +43355,7 @@
     }
   },
   {
+    "id": "SORC-0430",
     "name": "Blacksmith Family",
     "guardian": {
       "rarity": "Ordinary",
@@ -42989,6 +43419,7 @@
     }
   },
   {
+    "id": "SORC-0431",
     "name": "Bluecap Knockers",
     "guardian": {
       "rarity": "Exceptional",
@@ -43052,6 +43483,7 @@
     }
   },
   {
+    "id": "SORC-0432",
     "name": "Blue Knight",
     "guardian": {
       "rarity": "Exceptional",
@@ -43115,6 +43547,7 @@
     }
   },
   {
+    "id": "SORC-0433",
     "name": "Blunderbore",
     "guardian": {
       "rarity": "Unique",
@@ -43178,6 +43611,7 @@
     }
   },
   {
+    "id": "SORC-0434",
     "name": "Bog",
     "guardian": {
       "rarity": "Ordinary",
@@ -43241,6 +43675,7 @@
     }
   },
   {
+    "id": "SORC-0435",
     "name": "Bonfire",
     "guardian": {
       "rarity": "Ordinary",
@@ -43304,6 +43739,7 @@
     }
   },
   {
+    "id": "SORC-0436",
     "name": "Boudicca",
     "guardian": {
       "rarity": "Unique",
@@ -43367,6 +43803,7 @@
     }
   },
   {
+    "id": "SORC-0437",
     "name": "Bower of Bliss",
     "guardian": {
       "rarity": "Unique",
@@ -43430,6 +43867,7 @@
     }
   },
   {
+    "id": "SORC-0438",
     "name": "Briar Patch",
     "guardian": {
       "rarity": "Exceptional",
@@ -43493,6 +43931,7 @@
     }
   },
   {
+    "id": "SORC-0439",
     "name": "Brocéliande",
     "guardian": {
       "rarity": "Unique",
@@ -43556,6 +43995,7 @@
     }
   },
   {
+    "id": "SORC-0440",
     "name": "Brother Knight",
     "guardian": {
       "rarity": "Elite",
@@ -43619,6 +44059,7 @@
     }
   },
   {
+    "id": "SORC-0441",
     "name": "Brown Bears",
     "guardian": {
       "rarity": "Ordinary",
@@ -43682,6 +44123,7 @@
     }
   },
   {
+    "id": "SORC-0442",
     "name": "Burning Hands",
     "guardian": {
       "rarity": "Ordinary",
@@ -43745,6 +44187,7 @@
     }
   },
   {
+    "id": "SORC-0443",
     "name": "Caerleon-Upon-Usk",
     "guardian": {
       "rarity": "Unique",
@@ -43808,6 +44251,7 @@
     }
   },
   {
+    "id": "SORC-0444",
     "name": "Camelot",
     "guardian": {
       "rarity": "Unique",
@@ -43871,6 +44315,7 @@
     }
   },
   {
+    "id": "SORC-0445",
     "name": "Cast into Exile",
     "guardian": {
       "rarity": "Exceptional",
@@ -43934,6 +44379,7 @@
     }
   },
   {
+    "id": "SORC-0446",
     "name": "Castle Haunt",
     "guardian": {
       "rarity": "Exceptional",
@@ -43997,6 +44443,7 @@
     }
   },
   {
+    "id": "SORC-0447",
     "name": "Castle's Ablaze!",
     "guardian": {
       "rarity": "Elite",
@@ -44060,6 +44507,7 @@
     }
   },
   {
+    "id": "SORC-0448",
     "name": "Castle Servants",
     "guardian": {
       "rarity": "Ordinary",
@@ -44123,6 +44571,7 @@
     }
   },
   {
+    "id": "SORC-0449",
     "name": "Charge",
     "guardian": {
       "rarity": "Ordinary",
@@ -44186,6 +44635,7 @@
     }
   },
   {
+    "id": "SORC-0450",
     "name": "Cold Iron Rod",
     "guardian": {
       "rarity": "Exceptional",
@@ -44249,6 +44699,7 @@
     }
   },
   {
+    "id": "SORC-0451",
     "name": "Common Cottagers",
     "guardian": {
       "rarity": "Ordinary",
@@ -44312,6 +44763,7 @@
     }
   },
   {
+    "id": "SORC-0452",
     "name": "Common Village",
     "guardian": {
       "rarity": "Ordinary",
@@ -44375,6 +44827,7 @@
     }
   },
   {
+    "id": "SORC-0453",
     "name": "Coy Nixie",
     "guardian": {
       "rarity": "Exceptional",
@@ -44438,6 +44891,7 @@
     }
   },
   {
+    "id": "SORC-0454",
     "name": "Cursed Land",
     "guardian": {
       "rarity": "Elite",
@@ -44501,6 +44955,7 @@
     }
   },
   {
+    "id": "SORC-0455",
     "name": "Dame Britomart",
     "guardian": {
       "rarity": "Unique",
@@ -44564,6 +45019,7 @@
     }
   },
   {
+    "id": "SORC-0456",
     "name": "Degradation",
     "guardian": {
       "rarity": "Exceptional",
@@ -44627,6 +45083,7 @@
     }
   },
   {
+    "id": "SORC-0457",
     "name": "Dirium Fomorians",
     "guardian": {
       "rarity": "Exceptional",
@@ -44690,6 +45147,7 @@
     }
   },
   {
+    "id": "SORC-0458",
     "name": "Dozmary Pool",
     "guardian": {
       "rarity": "Unique",
@@ -44753,6 +45211,7 @@
     }
   },
   {
+    "id": "SORC-0459",
     "name": "Druid",
     "guardian": {
       "rarity": "Elite",
@@ -44808,6 +45267,7 @@
     }
   },
   {
+    "id": "SORC-0460",
     "name": "Duel",
     "guardian": {
       "rarity": "Ordinary",
@@ -44871,6 +45331,7 @@
     }
   },
   {
+    "id": "SORC-0461",
     "name": "Excalibur",
     "guardian": {
       "rarity": "Unique",
@@ -44934,6 +45395,7 @@
     }
   },
   {
+    "id": "SORC-0462",
     "name": "Fae City",
     "guardian": {
       "rarity": "Exceptional",
@@ -44997,6 +45459,7 @@
     }
   },
   {
+    "id": "SORC-0463",
     "name": "Fail-not Bow",
     "guardian": {
       "rarity": "Unique",
@@ -45060,6 +45523,7 @@
     }
   },
   {
+    "id": "SORC-0464",
     "name": "Feast for Crows",
     "guardian": {
       "rarity": "Unique",
@@ -45123,6 +45587,7 @@
     }
   },
   {
+    "id": "SORC-0465",
     "name": "Field Laborers",
     "guardian": {
       "rarity": "Ordinary",
@@ -45186,6 +45651,7 @@
     }
   },
   {
+    "id": "SORC-0466",
     "name": "Fields of Camlann",
     "guardian": {
       "rarity": "Unique",
@@ -45249,6 +45715,7 @@
     }
   },
   {
+    "id": "SORC-0467",
     "name": "Fine Courser",
     "guardian": {
       "rarity": "Exceptional",
@@ -45312,6 +45779,7 @@
     }
   },
   {
+    "id": "SORC-0468",
     "name": "Finwife",
     "guardian": {
       "rarity": "Ordinary",
@@ -45375,6 +45843,7 @@
     }
   },
   {
+    "id": "SORC-0469",
     "name": "Firebreathing",
     "guardian": {
       "rarity": "Exceptional",
@@ -45438,6 +45907,7 @@
     }
   },
   {
+    "id": "SORC-0470",
     "name": "Fisherman's Family",
     "guardian": {
       "rarity": "Ordinary",
@@ -45501,6 +45971,7 @@
     }
   },
   {
+    "id": "SORC-0471",
     "name": "Forge",
     "guardian": {
       "rarity": "Ordinary",
@@ -45564,6 +46035,7 @@
     }
   },
   {
+    "id": "SORC-0472",
     "name": "Fourberie Knot",
     "guardian": {
       "rarity": "Exceptional",
@@ -45627,6 +46099,7 @@
     }
   },
   {
+    "id": "SORC-0473",
     "name": "Four Waters of Paradise",
     "guardian": {
       "rarity": "Unique",
@@ -45690,6 +46163,7 @@
     }
   },
   {
+    "id": "SORC-0474",
     "name": "Frisky Red Squirrel",
     "guardian": {
       "rarity": "Exceptional",
@@ -45753,6 +46227,7 @@
     }
   },
   {
+    "id": "SORC-0475",
     "name": "Funeral Pyre",
     "guardian": {
       "rarity": "Exceptional",
@@ -45816,6 +46291,7 @@
     }
   },
   {
+    "id": "SORC-0476",
     "name": "Giant Killer",
     "guardian": {
       "rarity": "Exceptional",
@@ -45879,6 +46355,7 @@
     }
   },
   {
+    "id": "SORC-0477",
     "name": "Glastonbury Tor",
     "guardian": {
       "rarity": "Unique",
@@ -45942,6 +46419,7 @@
     }
   },
   {
+    "id": "SORC-0478",
     "name": "Golden Harp",
     "guardian": {
       "rarity": "Elite",
@@ -46005,6 +46483,7 @@
     }
   },
   {
+    "id": "SORC-0479",
     "name": "Goswhit Helmet",
     "guardian": {
       "rarity": "Elite",
@@ -46068,6 +46547,7 @@
     }
   },
   {
+    "id": "SORC-0480",
     "name": "Grain Sparrow",
     "guardian": {
       "rarity": "Ordinary",
@@ -46131,6 +46611,7 @@
     }
   },
   {
+    "id": "SORC-0481",
     "name": "Grand Old Boar",
     "guardian": {
       "rarity": "Elite",
@@ -46194,6 +46675,7 @@
     }
   },
   {
+    "id": "SORC-0482",
     "name": "Grievous Insult",
     "guardian": {
       "rarity": "Ordinary",
@@ -46257,6 +46739,7 @@
     }
   },
   {
+    "id": "SORC-0483",
     "name": "Grim Guisarme",
     "guardian": {
       "rarity": "Elite",
@@ -46320,6 +46803,7 @@
     }
   },
   {
+    "id": "SORC-0484",
     "name": "Guards!",
     "guardian": {
       "rarity": "Elite",
@@ -46383,6 +46867,7 @@
     }
   },
   {
+    "id": "SORC-0485",
     "name": "Hamlet",
     "guardian": {
       "rarity": "Ordinary",
@@ -46446,6 +46931,7 @@
     }
   },
   {
+    "id": "SORC-0486",
     "name": "Hamlet's Ablaze!",
     "guardian": {
       "rarity": "Ordinary",
@@ -46509,6 +46995,7 @@
     }
   },
   {
+    "id": "SORC-0487",
     "name": "Harassing Ruffians",
     "guardian": {
       "rarity": "Ordinary",
@@ -46572,6 +47059,7 @@
     }
   },
   {
+    "id": "SORC-0488",
     "name": "Helpful Hob",
     "guardian": {
       "rarity": "Ordinary",
@@ -46635,6 +47123,7 @@
     }
   },
   {
+    "id": "SORC-0489",
     "name": "Horn of Caerleon",
     "guardian": {
       "rarity": "Elite",
@@ -46698,6 +47187,7 @@
     }
   },
   {
+    "id": "SORC-0490",
     "name": "Hunter's Lodge",
     "guardian": {
       "rarity": "Ordinary",
@@ -46761,6 +47251,7 @@
     }
   },
   {
+    "id": "SORC-0491",
     "name": "Hunting Party",
     "guardian": {
       "rarity": "Exceptional",
@@ -46824,6 +47315,7 @@
     }
   },
   {
+    "id": "SORC-0492",
     "name": "Hyter Sprites",
     "guardian": {
       "rarity": "Ordinary",
@@ -46887,6 +47379,7 @@
     }
   },
   {
+    "id": "SORC-0493",
     "name": "Impenetrable Copse",
     "guardian": {
       "rarity": "Exceptional",
@@ -46950,6 +47443,7 @@
     }
   },
   {
+    "id": "SORC-0494",
     "name": "Invasion",
     "guardian": {
       "rarity": "Elite",
@@ -47013,6 +47507,7 @@
     }
   },
   {
+    "id": "SORC-0495",
     "name": "Iron Man Talus",
     "guardian": {
       "rarity": "Exceptional",
@@ -47076,6 +47571,7 @@
     }
   },
   {
+    "id": "SORC-0496",
     "name": "Joust!",
     "guardian": {
       "rarity": "Ordinary",
@@ -47139,6 +47635,7 @@
     }
   },
   {
+    "id": "SORC-0497",
     "name": "Joyous Garde",
     "guardian": {
       "rarity": "Unique",
@@ -47202,6 +47699,7 @@
     }
   },
   {
+    "id": "SORC-0498",
     "name": "Just a Rock",
     "guardian": {
       "rarity": "Ordinary",
@@ -47265,6 +47763,7 @@
     }
   },
   {
+    "id": "SORC-0499",
     "name": "Keening Banshee",
     "guardian": {
       "rarity": "Ordinary",
@@ -47328,6 +47827,7 @@
     }
   },
   {
+    "id": "SORC-0500",
     "name": "Kelp Cavern",
     "guardian": {
       "rarity": "Elite",
@@ -47391,6 +47891,7 @@
     }
   },
   {
+    "id": "SORC-0501",
     "name": "Kettletop Leprechaun",
     "guardian": {
       "rarity": "Ordinary",
@@ -47454,6 +47955,7 @@
     }
   },
   {
+    "id": "SORC-0502",
     "name": "King Arthur",
     "guardian": {
       "rarity": "Unique",
@@ -47517,6 +48019,7 @@
     }
   },
   {
+    "id": "SORC-0503",
     "name": "King's Council",
     "guardian": {
       "rarity": "Elite",
@@ -47580,6 +48083,7 @@
     }
   },
   {
+    "id": "SORC-0504",
     "name": "Kingswood Poachers",
     "guardian": {
       "rarity": "Exceptional",
@@ -47643,6 +48147,7 @@
     }
   },
   {
+    "id": "SORC-0505",
     "name": "Knighthood",
     "guardian": {
       "rarity": "Exceptional",
@@ -47706,6 +48211,7 @@
     }
   },
   {
+    "id": "SORC-0506",
     "name": "Lady Iseult",
     "guardian": {
       "rarity": "Unique",
@@ -47769,6 +48275,7 @@
     }
   },
   {
+    "id": "SORC-0507",
     "name": "Lake Afanc",
     "guardian": {
       "rarity": "Ordinary",
@@ -47832,6 +48339,7 @@
     }
   },
   {
+    "id": "SORC-0508",
     "name": "Lava Flow",
     "guardian": {
       "rarity": "Exceptional",
@@ -47895,6 +48403,7 @@
     }
   },
   {
+    "id": "SORC-0509",
     "name": "Led Astray",
     "guardian": {
       "rarity": "Ordinary",
@@ -47958,6 +48467,7 @@
     }
   },
   {
+    "id": "SORC-0510",
     "name": "Leyline Henge",
     "guardian": {
       "rarity": "Ordinary",
@@ -48021,6 +48531,7 @@
     }
   },
   {
+    "id": "SORC-0511",
     "name": "Lookout",
     "guardian": {
       "rarity": "Ordinary",
@@ -48084,6 +48595,7 @@
     }
   },
   {
+    "id": "SORC-0512",
     "name": "Love Potion",
     "guardian": {
       "rarity": "Elite",
@@ -48147,6 +48659,7 @@
     }
   },
   {
+    "id": "SORC-0513",
     "name": "Lugbog Cat",
     "guardian": {
       "rarity": "Exceptional",
@@ -48210,6 +48723,7 @@
     }
   },
   {
+    "id": "SORC-0514",
     "name": "Lumbering Giant",
     "guardian": {
       "rarity": "Ordinary",
@@ -48273,6 +48787,7 @@
     }
   },
   {
+    "id": "SORC-0515",
     "name": "Magic Missiles",
     "guardian": {
       "rarity": "Ordinary",
@@ -48336,6 +48851,7 @@
     }
   },
   {
+    "id": "SORC-0516",
     "name": "Major City",
     "guardian": {
       "rarity": "Elite",
@@ -48399,6 +48915,7 @@
     }
   },
   {
+    "id": "SORC-0517",
     "name": "Merlin",
     "guardian": {
       "rarity": "Unique",
@@ -48462,6 +48979,7 @@
     }
   },
   {
+    "id": "SORC-0518",
     "name": "Merlin's Staff",
     "guardian": {
       "rarity": "Unique",
@@ -48525,6 +49043,7 @@
     }
   },
   {
+    "id": "SORC-0519",
     "name": "Merlin's Tower",
     "guardian": {
       "rarity": "Unique",
@@ -48588,6 +49107,7 @@
     }
   },
   {
+    "id": "SORC-0520",
     "name": "Mesmerism",
     "guardian": {
       "rarity": "Unique",
@@ -48651,6 +49171,7 @@
     }
   },
   {
+    "id": "SORC-0521",
     "name": "Mester Stoor Worm",
     "guardian": {
       "rarity": "Elite",
@@ -48714,6 +49235,7 @@
     }
   },
   {
+    "id": "SORC-0522",
     "name": "Monstrous Lion",
     "guardian": {
       "rarity": "Elite",
@@ -48777,6 +49299,7 @@
     }
   },
   {
+    "id": "SORC-0523",
     "name": "Morgana le Fay",
     "guardian": {
       "rarity": "Unique",
@@ -48840,6 +49363,7 @@
     }
   },
   {
+    "id": "SORC-0524",
     "name": "Muirid Fomorians",
     "guardian": {
       "rarity": "Exceptional",
@@ -48903,6 +49427,7 @@
     }
   },
   {
+    "id": "SORC-0525",
     "name": "Nelly Longarms",
     "guardian": {
       "rarity": "Unique",
@@ -48966,6 +49491,7 @@
     }
   },
   {
+    "id": "SORC-0526",
     "name": "Ominous Owl",
     "guardian": {
       "rarity": "Ordinary",
@@ -49029,6 +49555,7 @@
     }
   },
   {
+    "id": "SORC-0527",
     "name": "Overbearing Bailiff",
     "guardian": {
       "rarity": "Elite",
@@ -49092,6 +49619,7 @@
     }
   },
   {
+    "id": "SORC-0528",
     "name": "Peasant Revolt",
     "guardian": {
       "rarity": "Unique",
@@ -49155,6 +49683,7 @@
     }
   },
   {
+    "id": "SORC-0529",
     "name": "Pebbled Paths",
     "guardian": {
       "rarity": "Exceptional",
@@ -49218,6 +49747,7 @@
     }
   },
   {
+    "id": "SORC-0530",
     "name": "Pendragon Banner",
     "guardian": {
       "rarity": "Elite",
@@ -49281,6 +49811,7 @@
     }
   },
   {
+    "id": "SORC-0531",
     "name": "Pendragon Legacy",
     "guardian": {
       "rarity": "Unique",
@@ -49344,6 +49875,7 @@
     }
   },
   {
+    "id": "SORC-0532",
     "name": "Perilous Bridge",
     "guardian": {
       "rarity": "Elite",
@@ -49407,6 +49939,7 @@
     }
   },
   {
+    "id": "SORC-0533",
     "name": "Pigs of the Sounder",
     "guardian": {
       "rarity": "Exceptional",
@@ -49470,6 +50003,7 @@
     }
   },
   {
+    "id": "SORC-0534",
     "name": "Poisoned Well",
     "guardian": {
       "rarity": "Exceptional",
@@ -49533,6 +50067,7 @@
     }
   },
   {
+    "id": "SORC-0535",
     "name": "Pond",
     "guardian": {
       "rarity": "Ordinary",
@@ -49596,6 +50131,7 @@
     }
   },
   {
+    "id": "SORC-0536",
     "name": "Pookas",
     "guardian": {
       "rarity": "Exceptional",
@@ -49659,6 +50195,7 @@
     }
   },
   {
+    "id": "SORC-0537",
     "name": "Postern Gate",
     "guardian": {
       "rarity": "Elite",
@@ -49722,6 +50259,7 @@
     }
   },
   {
+    "id": "SORC-0538",
     "name": "Power of Flight",
     "guardian": {
       "rarity": "Ordinary",
@@ -49785,6 +50323,7 @@
     }
   },
   {
+    "id": "SORC-0539",
     "name": "Purple Knight",
     "guardian": {
       "rarity": "Exceptional",
@@ -49848,6 +50387,7 @@
     }
   },
   {
+    "id": "SORC-0540",
     "name": "Queen Guinevere",
     "guardian": {
       "rarity": "Unique",
@@ -49911,6 +50451,7 @@
     }
   },
   {
+    "id": "SORC-0541",
     "name": "Questing Beast",
     "guardian": {
       "rarity": "Unique",
@@ -49974,6 +50515,7 @@
     }
   },
   {
+    "id": "SORC-0542",
     "name": "Rebecks",
     "guardian": {
       "rarity": "Unique",
@@ -50037,6 +50579,7 @@
     }
   },
   {
+    "id": "SORC-0543",
     "name": "Reckless Squire",
     "guardian": {
       "rarity": "Ordinary",
@@ -50100,6 +50643,7 @@
     }
   },
   {
+    "id": "SORC-0544",
     "name": "Redbreast Robin",
     "guardian": {
       "rarity": "Ordinary",
@@ -50163,6 +50707,7 @@
     }
   },
   {
+    "id": "SORC-0545",
     "name": "Redcap Powries",
     "guardian": {
       "rarity": "Exceptional",
@@ -50226,6 +50771,7 @@
     }
   },
   {
+    "id": "SORC-0546",
     "name": "Rescue",
     "guardian": {
       "rarity": "Ordinary",
@@ -50289,6 +50835,7 @@
     }
   },
   {
+    "id": "SORC-0547",
     "name": "Rhitta Gawr of Snowdonia",
     "guardian": {
       "rarity": "Unique",
@@ -50352,6 +50899,7 @@
     }
   },
   {
+    "id": "SORC-0548",
     "name": "Rhongomyniad",
     "guardian": {
       "rarity": "Unique",
@@ -50415,6 +50963,7 @@
     }
   },
   {
+    "id": "SORC-0549",
     "name": "Ribble Boggart",
     "guardian": {
       "rarity": "Elite",
@@ -50478,6 +51027,7 @@
     }
   },
   {
+    "id": "SORC-0550",
     "name": "Ring of Morrigan",
     "guardian": {
       "rarity": "Unique",
@@ -50541,6 +51091,7 @@
     }
   },
   {
+    "id": "SORC-0551",
     "name": "Salmon of Knowledge",
     "guardian": {
       "rarity": "Elite",
@@ -50604,6 +51155,7 @@
     }
   },
   {
+    "id": "SORC-0552",
     "name": "Saracen Raiders",
     "guardian": {
       "rarity": "Exceptional",
@@ -50667,6 +51219,7 @@
     }
   },
   {
+    "id": "SORC-0553",
     "name": "Saracen Scout",
     "guardian": {
       "rarity": "Ordinary",
@@ -50730,6 +51283,7 @@
     }
   },
   {
+    "id": "SORC-0554",
     "name": "Seelie Court",
     "guardian": {
       "rarity": "Elite",
@@ -50793,6 +51347,7 @@
     }
   },
   {
+    "id": "SORC-0555",
     "name": "Shameless Squire",
     "guardian": {
       "rarity": "Ordinary",
@@ -50856,6 +51411,7 @@
     }
   },
   {
+    "id": "SORC-0556",
     "name": "Shapeshift",
     "guardian": {
       "rarity": "Elite",
@@ -50919,6 +51475,7 @@
     }
   },
   {
+    "id": "SORC-0557",
     "name": "Shatter Strike",
     "guardian": {
       "rarity": "Exceptional",
@@ -50982,6 +51539,7 @@
     }
   },
   {
+    "id": "SORC-0558",
     "name": "Shellycoat",
     "guardian": {
       "rarity": "Ordinary",
@@ -51045,6 +51603,7 @@
     }
   },
   {
+    "id": "SORC-0559",
     "name": "Sherwood Huntress",
     "guardian": {
       "rarity": "Ordinary",
@@ -51108,6 +51667,7 @@
     }
   },
   {
+    "id": "SORC-0560",
     "name": "Siege Giant",
     "guardian": {
       "rarity": "Exceptional",
@@ -51171,6 +51731,7 @@
     }
   },
   {
+    "id": "SORC-0561",
     "name": "Sir Agravaine",
     "guardian": {
       "rarity": "Unique",
@@ -51234,6 +51795,7 @@
     }
   },
   {
+    "id": "SORC-0562",
     "name": "Sir Balin",
     "guardian": {
       "rarity": "Unique",
@@ -51297,6 +51859,7 @@
     }
   },
   {
+    "id": "SORC-0563",
     "name": "Sir Bedivere",
     "guardian": {
       "rarity": "Unique",
@@ -51360,6 +51923,7 @@
     }
   },
   {
+    "id": "SORC-0564",
     "name": "Sir Bors the Younger",
     "guardian": {
       "rarity": "Unique",
@@ -51423,6 +51987,7 @@
     }
   },
   {
+    "id": "SORC-0565",
     "name": "Sir Gaheris",
     "guardian": {
       "rarity": "Unique",
@@ -51486,6 +52051,7 @@
     }
   },
   {
+    "id": "SORC-0566",
     "name": "Sir Galahad",
     "guardian": {
       "rarity": "Unique",
@@ -51549,6 +52115,7 @@
     }
   },
   {
+    "id": "SORC-0567",
     "name": "Sir Gareth",
     "guardian": {
       "rarity": "Unique",
@@ -51612,6 +52179,7 @@
     }
   },
   {
+    "id": "SORC-0568",
     "name": "Sir Gawain",
     "guardian": {
       "rarity": "Unique",
@@ -51675,6 +52243,7 @@
     }
   },
   {
+    "id": "SORC-0569",
     "name": "Sir Ironside",
     "guardian": {
       "rarity": "Unique",
@@ -51738,6 +52307,7 @@
     }
   },
   {
+    "id": "SORC-0570",
     "name": "Sir Kay",
     "guardian": {
       "rarity": "Unique",
@@ -51801,6 +52371,7 @@
     }
   },
   {
+    "id": "SORC-0571",
     "name": "Sir Lamorak",
     "guardian": {
       "rarity": "Unique",
@@ -51864,6 +52435,7 @@
     }
   },
   {
+    "id": "SORC-0572",
     "name": "Sir Lancelot",
     "guardian": {
       "rarity": "Unique",
@@ -51935,6 +52507,7 @@
     }
   },
   {
+    "id": "SORC-0573",
     "name": "Sir Mordred",
     "guardian": {
       "rarity": "Unique",
@@ -51998,6 +52571,7 @@
     }
   },
   {
+    "id": "SORC-0574",
     "name": "Sir Morien",
     "guardian": {
       "rarity": "Unique",
@@ -52061,6 +52635,7 @@
     }
   },
   {
+    "id": "SORC-0575",
     "name": "Sir Pelleas",
     "guardian": {
       "rarity": "Unique",
@@ -52124,6 +52699,7 @@
     }
   },
   {
+    "id": "SORC-0576",
     "name": "Sir Pellinore",
     "guardian": {
       "rarity": "Unique",
@@ -52187,6 +52763,7 @@
     }
   },
   {
+    "id": "SORC-0577",
     "name": "Sir Perceval",
     "guardian": {
       "rarity": "Unique",
@@ -52250,6 +52827,7 @@
     }
   },
   {
+    "id": "SORC-0578",
     "name": "Sir Priamus",
     "guardian": {
       "rarity": "Unique",
@@ -52313,6 +52891,7 @@
     }
   },
   {
+    "id": "SORC-0579",
     "name": "Sir Tom Thumb",
     "guardian": {
       "rarity": "Unique",
@@ -52376,6 +52955,7 @@
     }
   },
   {
+    "id": "SORC-0580",
     "name": "Sir Tristan",
     "guardian": {
       "rarity": "Unique",
@@ -52439,6 +53019,7 @@
     }
   },
   {
+    "id": "SORC-0581",
     "name": "Sir Yvain",
     "guardian": {
       "rarity": "Unique",
@@ -52502,6 +53083,7 @@
     }
   },
   {
+    "id": "SORC-0582",
     "name": "Sisters of Avalon",
     "guardian": {
       "rarity": "Exceptional",
@@ -52565,6 +53147,7 @@
     }
   },
   {
+    "id": "SORC-0583",
     "name": "Sly Fox",
     "guardian": {
       "rarity": "Ordinary",
@@ -52628,6 +53211,7 @@
     }
   },
   {
+    "id": "SORC-0584",
     "name": "Snowball",
     "guardian": {
       "rarity": "Exceptional",
@@ -52691,6 +53275,7 @@
     }
   },
   {
+    "id": "SORC-0585",
     "name": "Spearmarshal",
     "guardian": {
       "rarity": "Elite",
@@ -52754,6 +53339,7 @@
     }
   },
   {
+    "id": "SORC-0586",
     "name": "Squeakers",
     "guardian": {
       "rarity": "Ordinary",
@@ -52817,6 +53403,7 @@
     }
   },
   {
+    "id": "SORC-0587",
     "name": "Stone Rain",
     "guardian": {
       "rarity": "Exceptional",
@@ -52880,6 +53467,7 @@
     }
   },
   {
+    "id": "SORC-0588",
     "name": "Sugarplum Pixies",
     "guardian": {
       "rarity": "Exceptional",
@@ -52943,6 +53531,7 @@
     }
   },
   {
+    "id": "SORC-0589",
     "name": "Swindler Troupe",
     "guardian": {
       "rarity": "Ordinary",
@@ -53006,6 +53595,7 @@
     }
   },
   {
+    "id": "SORC-0590",
     "name": "Sword and Shield",
     "guardian": {
       "rarity": "Exceptional",
@@ -53069,6 +53659,7 @@
     }
   },
   {
+    "id": "SORC-0591",
     "name": "Sylvan Splendor",
     "guardian": {
       "rarity": "Elite",
@@ -53132,6 +53723,7 @@
     }
   },
   {
+    "id": "SORC-0592",
     "name": "Tactical Move",
     "guardian": {
       "rarity": "Ordinary",
@@ -53195,6 +53787,7 @@
     }
   },
   {
+    "id": "SORC-0593",
     "name": "Tax Collector",
     "guardian": {
       "rarity": "Ordinary",
@@ -53258,6 +53851,7 @@
     }
   },
   {
+    "id": "SORC-0594",
     "name": "Templar",
     "guardian": {
       "rarity": "Elite",
@@ -53321,6 +53915,7 @@
     }
   },
   {
+    "id": "SORC-0595",
     "name": "Thankless Squire",
     "guardian": {
       "rarity": "Ordinary",
@@ -53384,6 +53979,7 @@
     }
   },
   {
+    "id": "SORC-0596",
     "name": "The Black Plague",
     "guardian": {
       "rarity": "Unique",
@@ -53447,6 +54043,7 @@
     }
   },
   {
+    "id": "SORC-0597",
     "name": "The Faerie Queene",
     "guardian": {
       "rarity": "Unique",
@@ -53510,6 +54107,7 @@
     }
   },
   {
+    "id": "SORC-0598",
     "name": "The Great Drowning of Men",
     "guardian": {
       "rarity": "Unique",
@@ -53573,6 +54171,7 @@
     }
   },
   {
+    "id": "SORC-0599",
     "name": "The Great Famine",
     "guardian": {
       "rarity": "Unique",
@@ -53636,6 +54235,7 @@
     }
   },
   {
+    "id": "SORC-0600",
     "name": "The Green Knight",
     "guardian": {
       "rarity": "Unique",
@@ -53699,6 +54299,7 @@
     }
   },
   {
+    "id": "SORC-0601",
     "name": "The Lady of the Lake",
     "guardian": {
       "rarity": "Unique",
@@ -53762,6 +54363,7 @@
     }
   },
   {
+    "id": "SORC-0602",
     "name": "The Ninth Legion",
     "guardian": {
       "rarity": "Unique",
@@ -53825,6 +54427,7 @@
     }
   },
   {
+    "id": "SORC-0603",
     "name": "The Round Table",
     "guardian": {
       "rarity": "Unique",
@@ -53888,6 +54491,7 @@
     }
   },
   {
+    "id": "SORC-0604",
     "name": "The Wild Hunt",
     "guardian": {
       "rarity": "Elite",
@@ -53951,6 +54555,7 @@
     }
   },
   {
+    "id": "SORC-0605",
     "name": "Thieving Magpie",
     "guardian": {
       "rarity": "Ordinary",
@@ -54014,6 +54619,7 @@
     }
   },
   {
+    "id": "SORC-0606",
     "name": "Thundering Giant",
     "guardian": {
       "rarity": "Elite",
@@ -54077,6 +54683,7 @@
     }
   },
   {
+    "id": "SORC-0607",
     "name": "Tintagel",
     "guardian": {
       "rarity": "Unique",
@@ -54140,6 +54747,7 @@
     }
   },
   {
+    "id": "SORC-0608",
     "name": "Tithe",
     "guardian": {
       "rarity": "Unique",
@@ -54203,6 +54811,7 @@
     }
   },
   {
+    "id": "SORC-0609",
     "name": "Tooth Faeries",
     "guardian": {
       "rarity": "Exceptional",
@@ -54266,6 +54875,7 @@
     }
   },
   {
+    "id": "SORC-0610",
     "name": "Tournament Grounds",
     "guardian": {
       "rarity": "Exceptional",
@@ -54329,6 +54939,7 @@
     }
   },
   {
+    "id": "SORC-0611",
     "name": "Town",
     "guardian": {
       "rarity": "Exceptional",
@@ -54392,6 +55003,7 @@
     }
   },
   {
+    "id": "SORC-0612",
     "name": "Treetop Hideout",
     "guardian": {
       "rarity": "Ordinary",
@@ -54455,6 +55067,7 @@
     }
   },
   {
+    "id": "SORC-0613",
     "name": "Troll Bridge",
     "guardian": {
       "rarity": "Exceptional",
@@ -54518,6 +55131,7 @@
     }
   },
   {
+    "id": "SORC-0614",
     "name": "Unseelie Court",
     "guardian": {
       "rarity": "Elite",
@@ -54581,6 +55195,7 @@
     }
   },
   {
+    "id": "SORC-0615",
     "name": "Valley of Delight",
     "guardian": {
       "rarity": "Elite",
@@ -54644,6 +55259,7 @@
     }
   },
   {
+    "id": "SORC-0616",
     "name": "Valor",
     "guardian": {
       "rarity": "Elite",
@@ -54707,6 +55323,7 @@
     }
   },
   {
+    "id": "SORC-0617",
     "name": "Vanishment",
     "guardian": {
       "rarity": "Exceptional",
@@ -54770,6 +55387,7 @@
     }
   },
   {
+    "id": "SORC-0618",
     "name": "Varmint Warrens",
     "guardian": {
       "rarity": "Elite",
@@ -54833,6 +55451,7 @@
     }
   },
   {
+    "id": "SORC-0619",
     "name": "Vengeful Heir",
     "guardian": {
       "rarity": "Elite",
@@ -54896,6 +55515,7 @@
     }
   },
   {
+    "id": "SORC-0620",
     "name": "Verdant Knight",
     "guardian": {
       "rarity": "Exceptional",
@@ -54959,6 +55579,7 @@
     }
   },
   {
+    "id": "SORC-0621",
     "name": "Vikings",
     "guardian": {
       "rarity": "Ordinary",
@@ -55022,6 +55643,7 @@
     }
   },
   {
+    "id": "SORC-0622",
     "name": "Vivien the Enchantress",
     "guardian": {
       "rarity": "Unique",
@@ -55085,6 +55707,7 @@
     }
   },
   {
+    "id": "SORC-0623",
     "name": "Wall of Brambles",
     "guardian": {
       "rarity": "Ordinary",
@@ -55148,6 +55771,7 @@
     }
   },
   {
+    "id": "SORC-0624",
     "name": "War Horse",
     "guardian": {
       "rarity": "Exceptional",
@@ -55211,6 +55835,7 @@
     }
   },
   {
+    "id": "SORC-0625",
     "name": "Wedding Hall",
     "guardian": {
       "rarity": "Elite",
@@ -55274,6 +55899,7 @@
     }
   },
   {
+    "id": "SORC-0626",
     "name": "Weightless Squire",
     "guardian": {
       "rarity": "Ordinary",
@@ -55337,6 +55963,7 @@
     }
   },
   {
+    "id": "SORC-0627",
     "name": "Whirlwind",
     "guardian": {
       "rarity": "Exceptional",
@@ -55400,6 +56027,7 @@
     }
   },
   {
+    "id": "SORC-0628",
     "name": "White Hart",
     "guardian": {
       "rarity": "Unique",
@@ -55463,6 +56091,7 @@
     }
   },
   {
+    "id": "SORC-0629",
     "name": "White Knight",
     "guardian": {
       "rarity": "Exceptional",
@@ -55526,6 +56155,7 @@
     }
   },
   {
+    "id": "SORC-0630",
     "name": "Witch",
     "guardian": {
       "rarity": "Unique",
@@ -55597,6 +56227,7 @@
     }
   },
   {
+    "id": "SORC-0631",
     "name": "Wizard's Den",
     "guardian": {
       "rarity": "Elite",
@@ -55660,6 +56291,7 @@
     }
   },
   {
+    "id": "SORC-0632",
     "name": "Wolpertinger",
     "guardian": {
       "rarity": "Elite",
@@ -55723,6 +56355,7 @@
     }
   },
   {
+    "id": "SORC-0633",
     "name": "Wormelow Tump",
     "guardian": {
       "rarity": "Unique",
@@ -55786,6 +56419,7 @@
     }
   },
   {
+    "id": "SORC-0634",
     "name": "Wyvern",
     "guardian": {
       "rarity": "Exceptional",
@@ -55849,6 +56483,7 @@
     }
   },
   {
+    "id": "SORC-0635",
     "name": "Year of the Blaze",
     "guardian": {
       "rarity": "Unique",
@@ -55912,6 +56547,7 @@
     }
   },
   {
+    "id": "SORC-0636",
     "name": "Yellow Knight",
     "guardian": {
       "rarity": "Exceptional",
@@ -55975,6 +56611,7 @@
     }
   },
   {
+    "id": "SORC-0637",
     "name": "Dragonlord",
     "guardian": {
       "rarity": "Unique",
@@ -56038,6 +56675,7 @@
     }
   },
   {
+    "id": "SORC-0638",
     "name": "Kairos the Archivist",
     "guardian": {
       "rarity": "Unique",
@@ -56101,6 +56739,7 @@
     }
   },
   {
+    "id": "SORC-0639",
     "name": "Caelestis",
     "guardian": {
       "rarity": "Unique",
@@ -56164,6 +56803,7 @@
     }
   },
   {
+    "id": "SORC-0640",
     "name": "Xeraphine Konrul",
     "guardian": {
       "rarity": "Unique",
@@ -56227,6 +56867,7 @@
     }
   },
   {
+    "id": "SORC-0641",
     "name": "Draco Corvus",
     "guardian": {
       "rarity": "Unique",
@@ -56290,6 +56931,7 @@
     }
   },
   {
+    "id": "SORC-0642",
     "name": "Moonsong Talagelum",
     "guardian": {
       "rarity": "Unique",
@@ -56353,6 +56995,7 @@
     }
   },
   {
+    "id": "SORC-0643",
     "name": "Adtonitum",
     "guardian": {
       "rarity": "Unique",
@@ -56416,6 +57059,7 @@
     }
   },
   {
+    "id": "SORC-0644",
     "name": "Talamh Dreig",
     "guardian": {
       "rarity": "Unique",
@@ -56479,6 +57123,7 @@
     }
   },
   {
+    "id": "SORC-0645",
     "name": "Ignis Rex",
     "guardian": {
       "rarity": "Unique",
@@ -56542,6 +57187,7 @@
     }
   },
   {
+    "id": "SORC-0646",
     "name": "Vatn Draconis",
     "guardian": {
       "rarity": "Unique",
@@ -56605,6 +57251,7 @@
     }
   },
   {
+    "id": "SORC-0647",
     "name": "Cradle of Etherrum",
     "guardian": {
       "rarity": "Unique",
@@ -56668,6 +57315,7 @@
     }
   },
   {
+    "id": "SORC-0648",
     "name": "Shrine of the Dragonlord",
     "guardian": {
       "rarity": "Unique",
@@ -56731,6 +57379,7 @@
     }
   },
   {
+    "id": "SORC-0649",
     "name": "Dragonlord's Lair",
     "guardian": {
       "rarity": "Unique",
