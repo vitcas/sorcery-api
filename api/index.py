@@ -136,6 +136,25 @@ def get_cards():
         if match:
             filtered.append(card)
 
+    # Após o filtro, mas ANTES de paginar e retornar:
+    processed = []
+    for card in filtered:
+        # Clonar para não mutar o objeto original em memória principal
+        card_copy = card.copy()
+        # Criar variants achatados igual One Piece
+        unified_variants = []
+        for set_entry in card_copy.get("sets", []):
+            set_name = set_entry.get("name", "")
+            for v in set_entry.get("variants", []):
+                flat = v.copy()
+                flat["set"] = set_name  # adiciona nome do set dentro do variant
+                unified_variants.append(flat)
+        # Inserir no root como em One Piece
+        card_copy["variants"] = unified_variants
+        processed.append(card_copy)
+    # Substituir filtered por processed
+    filtered = processed
+
     # Pagination (same as before)
     try:
         limit = min(int(request.args.get("limit", 25)), 100)
